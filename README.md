@@ -108,8 +108,8 @@ Created: 30.6.2020
 
 ## git practise 1+2 
 
-in linux<br>
-<br>
+in linux
+
 not much to see, but it was: <br>
 general terminal commands<br>
 adding files<br>
