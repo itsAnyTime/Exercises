@@ -6,7 +6,7 @@
 
 body {
     background: #5c390f;
-    font-family: Georgia, Times, serif;
+    font-family: Times, serif;
     color: #fff;
     text-align: center;
     font-size: 50px;    
@@ -18,6 +18,7 @@ body {
     font-size: 24px;
     margin: 0 0 10px;
     padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .secondary-box {
@@ -26,26 +27,35 @@ body {
     font-size: 24px;
     margin: 0 0 10px;    
     padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-div .secondary-box:first-of-type {
-    font-family: Arial, Helvetica, sans-serif;
+/* my changings - not perfect, do not know the font */
+
+.secondary-box p
+{
+    font-family: Arial, Helvetica, sans-serif
 }
+
+div .primary-box:first-of-type em {
+    font-family: 'Times New Roman', Times, serif
+    /* for what? */
+} 
 
  .primary-box em {
-    color: #558DFA;
+    color: #32b0ff;
 }
 
 .secondary-box em {
-    color: #FE21FB;
-} 
+    color: #fc3fff;
+}  
 
 /* other solution, for case the class names are all the same: 
  div:nth-child(odd) em
 {
-    color: #558DFA;
+    color: #32b0ff;
 }
 div:nth-child(even) em
 {
-    color: #FE21FB;
+    color: #fc3fff;
 } */

@@ -6,6 +6,8 @@
 
 1. Modify the given page to make it look like the mockup.
 
+![alt-text](/Exercises/descendant-selectors/mockup.png "Reference Image")
+
 Created: 6.7.2020
 
 #### Used:

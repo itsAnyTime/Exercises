@@ -8,6 +8,11 @@
 
    ## Used:
 
-classname em div .classname:first-of-type em p:nth-child() div:nth-child(odd) div:nth-child(even)
+classname em
+div .classname:first-of-type em
+p:nth-child()
+div:nth-child(odd)
+div:nth-child(even)
+
 
 Created: 6.7.2020
