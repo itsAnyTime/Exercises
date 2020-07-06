@@ -1,0 +1,18 @@
+ol {
+  list-style-type: upper-roman;
+  counter-reset: item;
+
+}
+
+li {
+  display: item;
+}
+
+li:before {
+  content: counters(item, ".") " ";
+  counter-increment: item;
+} 
+
+h1 {
+  color: blue;
+}

@@ -1,0 +1,33 @@
+a[title] {
+    color: red;
+}
+
+p::first-line {
+    color: blue;
+}
+
+a:hover {
+    color: green;
+}
+
+h1, .special {
+    color: lime;
+}
+
+h1 + p {
+    color: yellow;
+}
+
+h2 ~ p {
+    color: pink;
+}
+
+.special.urgent {
+    color: brown;
+}
+
+
+/* Assignment */
+
+
+

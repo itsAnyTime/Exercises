@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Haudi</title>
+</head>
+
+<body>
+    <h1>Huhu huhu</h1>
+    <article><p class="dull">
+        1 all paragraphs with a class of “dull”
+
+        p.dull {
+        color: lightsalmon;
+        }
+
+        2 all elements that have both a “todo” class and an “urgent” class
+
+        .todo.urgent { }
+
+        3 all elements with a “todo” class or an “urgent” class or both
+
+        .todo, .urgent { }
+
+        4 all first paragraphs within '< article>' tags
+
+        article p:first-child { }
+        or
+        article > p:first-of-type { }
+
+        5 all links that have been visited
+
+        a:visited {}
+
+        6 the first line of any paragraph in any article element
+
+        article p::first-line {}
+
+        7 the first line of the first paragraph in any article element
+
+        article p:first-child::first-line {}
+
+        8.  all paragraphs inside articles in the body
+
+        body article p {}
+
+        9.  all paragraphs inside elements with class “box”
+
+        .box p {}
+
+        10. all paragraphs that are children of article elements.
+
+        article > p {}
+
+        11. all images that immediately follow paragraphs
+
+        p + img { }
+
+        12. all images that are siblings of paragraphs
+
+        p ~ img {}
+
+        13. all list items with class attribute “special” that are children of unordered lists
+
+        ul > li.special {}
+        </p>
+</body>
+
+</html>
