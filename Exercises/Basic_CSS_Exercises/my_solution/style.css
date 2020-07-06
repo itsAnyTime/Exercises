@@ -44,14 +44,14 @@ body button {
     cursor: grabbing;
 }
 
-h1, h2 {
-    color: white;
-}
-
 /* for type="button" */
 input[type=button] {
     font-size: 25px;
     height: 40px;
     width: 200px;
     cursor: help;
+}
+
+h1, h2 {
+    color: white;
 }
