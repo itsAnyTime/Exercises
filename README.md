@@ -25,7 +25,7 @@ div:nth-child(even)
 4.  Use the pseudo classes for all elements, to enhance usability.
 5.  Add some additional styling to your page e.g. background colors.
 
-![alt-text](/Exercises/Basic_CSS_Exercises/image/reference-image.png "Reference Image")
+![alt-text](/Exercises/CSS_Pseudo_Classes/image/reference-image.png "Reference Image")
 
 Created: 6.7.2020
 
