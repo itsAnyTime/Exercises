@@ -10,7 +10,7 @@
 4. Select the link ending in .com with an attribute selector. Give it a yellow background color.
 5. Give "Task 5" (_this_) list item an id and change the color of the text.
 
-![alt-text](/css_selectors_1/image/reference-image.png "Reference Image")
+![alt-text](/Exercises/css_selectors_1/image/reference-image.png "Reference Image")
 
 
 Created: 7.7.2020
