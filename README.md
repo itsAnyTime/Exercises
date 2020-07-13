@@ -4,13 +4,11 @@
 
 # Model the Boxes
 
-**Instructions**:
-
 1. Create `html` and `css` files. Work from there.
 
 2.  Create the layout shown in the image below:
    
-    ![mockup](Exercixes/UIB-boxelmodel-modellingboxes/mockup.png)
+    ![mockup](/Exercises/UIB-boxelmodel-modellingboxes/mockup.png)
 
 
 3.  Use `<header>`, `<main>`, `<footer>`, `<aside>` to structure the html page.
@@ -21,7 +19,6 @@ Created: 13.07.2020
 
 # Contain Yourself
 
-**Instructions**: 
 * Style the header so that is takes up 100% of the viewport height. 
 * Add the `container.jpg` image from the [images folder](/Exercises/UIB-boxmodel-containing/images/) to the `img` tag found in the header.
 * Style the image to take up 100% width and height of the header. 
