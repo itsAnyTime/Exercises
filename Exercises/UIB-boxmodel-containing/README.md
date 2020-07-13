@@ -9,3 +9,5 @@
 * Choose a font from google fonts and apply it to the page.
 * Select the `container` class. Give it a width of 80% and center it in the middle of the page.
 ![main-mock](./images/main.png)
+
+Created: 13.07.2020

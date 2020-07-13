@@ -7,13 +7,13 @@
 
 **Instructions**: 
 * Style the header so that is takes up 100% of the viewport height. 
-* Add the `container.jpg` image from the [images folder](.UIB-boxmodel-containing/images/) to the `img` tag found in the header.
+* Add the `container.jpg` image from the [images folder](/Exercises/UIB-boxmodel-containing/images/) to the `img` tag found in the header.
 * Style the image to take up 100% width and height of the header. 
-![header-mock].(/UIB-boxmodel-containing/images/header.png)
+![header-mock](/Exercises/UIB-boxmodel-containing/images/header.png)
 * Give the `main` element a class of `container`. 
 * Choose a font from google fonts and apply it to the page.
 * Select the `container` class. Give it a width of 80% and center it in the middle of the page.
-![main-mock](./UIB-boxmodel-containing/images/main.png)
+![main-mock](/Exercises/UIB-boxmodel-containing/images/main.png)
 
 
 Created: 13.07.2020
