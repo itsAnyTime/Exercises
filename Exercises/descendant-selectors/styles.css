@@ -18,7 +18,7 @@ body {
     font-size: 24px;
     margin: 0 0 10px;
     padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
 }
 
 .secondary-box {
@@ -27,20 +27,18 @@ body {
     font-size: 24px;
     margin: 0 0 10px;    
     padding: 10px;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
 }
 
-/* my changings - not perfect, do not know the font */
+/* my changings */
 
-.secondary-box p
-{
+.primary-box h2 {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.secondary-box p {
     font-family: Arial, Helvetica, sans-serif
 }
-
-div .primary-box:first-of-type em {
-    font-family: 'Times New Roman', Times, serif
-    /* for what? */
-} 
 
  .primary-box em {
     color: #32b0ff;
