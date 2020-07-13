@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        * {
+            box-sizing: border-box; /* bonus */
+        }
+        
+        em, strong {
+            display: inline;
+            margin: 33px;
+            padding-bottom: 60px;;
+        }
+
+        p {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <main style="width: 80%;">
+    <p style="border: 2px solid;">This is a <em>paragraph</em></p>
+    <p style="border: 2px solid;"><strong>This</strong> is a paragraph</p>
+    <p style="border: 2px solid; width: 300px; padding: 20px;">This is a paragraph</p>
+</main>
+
+<p></p>
+
+<p> <h1> Instructions</h1>
+    Block vs. Inline:</br>
+</br>
+    Create an index.html file with 3 paragraphs, each containing the words “This is a paragraph”.</br>
+</br>
+    Draw a border around each element.</br>
+</br>
+    In one of the paragraphs, enclose one word in <em> tags and another one in <strong> tags.</br>
+    </br>
+    Inspect a paragraph in DevTools. Change its width and height.</br>
+</br>
+    Inspect the <em> element in DevTools.  Try to change its width and height.  What do you notice?</br>
+        nothing changed.</br>
+    </br>
+    Now set the display property of the <em> element to “block” and try again to change its width and height.  What do you notice?</br>
+        it works to change the sizes.</br>
+    </br>
+    Change the display property of the paragraphs to “inline”.</br>
+</br>
+    Inspect a paragraph with DevTools and try to change margin and padding.  What changed?
+        padding changes the border, margin changements are only visible in dev tools</br>
+    </br>
+    Undo the changes to the display properties.</br>
+</br>
+    Wrap all elements in a <main> element and give <main> a width of 80%.</br>
+    </br>
+    What can you infer about the default width of block-level elements like paragraphs?
+        should be display: block, if you want resize inline elements(?)</br>
+    </br>
+    Change the display property of the <em> and <strong> elements to “block”.  </br>
+    </br>
+        Change their margin and padding.  </br>
+    </br>
+          Now change the display property to “inline-block”.  How does this differ from “display: block” and “display: inline”?</br>
+                only margin is visible in html view</br>
+            </br>
+    Give the <em> and <strong> elements a display property of “inline” and the paragraphs a display property of “block”.</br>
+
+    Give a paragraph a width of 300px and a padding of 20px.  </br>
+</br>  
+        Inspect the result with DevTools.  Which of the boxes associated with this paragraph  (content-box, padding-box, border-box, margin-box) has a width of 300px?</br>
+            content-box</br>
+        </br>
+    (Bonus) Ensure that, for any (current or future) element on this page, width applies to the border-box.
+        box-sizing: border-box; 
+    </p>
+</body>
+</html>
