@@ -5,11 +5,11 @@
 }
 
 body {
-    background: #5c390f;
-    font-family: Times, serif;
+    background: #4d2d06;
     color: #fff;
     text-align: center;
     font-size: 50px;    
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .primary-box {
