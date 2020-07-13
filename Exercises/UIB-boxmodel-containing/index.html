@@ -4,13 +4,40 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link href="https://fonts.googleapis.com/css2?family=Modak&family=Raleway:wght@300&display=swap" rel="stylesheet"> 
     <title>Contain Yourself</title>
+    <style>
+      * {
+        font-family: 'Raleway', sans-serif;        
+        font-size: 32px;
+      }
+
+      .header img:nth-child(1) {
+        height: 100vh;
+        width: 100vw;  /* width: 100%; */
+        border: 4px solid green;
+      }
+
+      .header img:nth-child(2) {
+        width: 100%;
+        margin: 0 auto;
+        border: 2px solid;
+      }
+
+      .container {
+        width: 80%;
+        margin: 0 auto;
+      }
+
+    </style>
   </head>
   <body>
     <header class="header">
       <img class="header__img" src="./images/containers.jpg" alt="Containers" />
+      <img class="header__img" src="./images/header.png" alt="Header" />
+
     </header>
-    <main>
+    <main class="container">
       <h2>Containers Everywhere</h2>
       <p>
         Have you ever asked yourself how does the coffee or tea that you are
