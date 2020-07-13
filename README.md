@@ -3,6 +3,8 @@
 ## Basic_CSS_Exercises
 
 
+NOT DONE 
+
 # They see me scrolling
 
 **Task 1**
@@ -18,6 +20,8 @@
 ![reference-task2](./Exercises/UIB-boxmodel-flow/images/reference-task2.png)
 
 ![reference-task](./Exercises/UIB-boxmodel-flow/images/reference.png)
+
+Created: 13.07.2020
 
 
 <hr>
