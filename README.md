@@ -3,7 +3,9 @@
 ## Basic_CSS_Exercises
 
 ### Design Mockup:
-Using the images attached below, create a page that looks like the design-mockup.
+Use the given images, create a page that looks like the design-mockup:
+
+![reference-task1](./Exercises/piano_page/images/design-mockup.png)
 
 Created: 14.07.2020
 
