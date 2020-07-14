@@ -1,0 +1,72 @@
+* {
+    margin: 2 auto;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 0.2em;
+}
+
+body {
+    border: 3px solid;
+    text-align: center;
+}
+
+header {
+    margin: 5px; 
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.hr_double {
+    width: 80%;
+    height: 2px; 
+    color: rgb(0, 0, 0);
+    background: #000000;
+}
+
+.hr_thin {
+    width: 80%;
+}
+
+
+nav {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+nav li {
+    /* hint: remember that you can turn a block element like a li (list item) into an inline element by changing the display type. */
+    display: inline;
+    list-style: none;
+    padding: 10px;
+    letter-spacing: 0.125em;
+}
+
+nav li:nth-child(1) {
+    color: red;
+}
+
+/* responsible image */
+main img {
+    width: 50%;
+}
+
+main p {
+    text-align: center;
+    letter-spacing: 0.125em;
+}
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: rgb(0, 0, 0);
+}
+  
+a:hover {
+    color: rgb(43, 255, 0);
+}
+  
+a:active {
+    color: rgb(255, 0, 0);
+}
