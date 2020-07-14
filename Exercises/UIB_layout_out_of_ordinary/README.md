@@ -17,4 +17,6 @@
     
 **Hint**: Consider using flex-wrap.
 
-![reference-gif](/images/example.gif)
+![reference-gif](./images/example.gif)
+
+Created: 14.07.2020
