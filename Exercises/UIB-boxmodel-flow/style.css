@@ -1,3 +1,32 @@
+* {
+  margin: 200 auto;
+}
+
+/* task 1 */
+
 .esports-info {
   display: inline-block;
+}
+
+section {
+  height: 10%;
+  width: 30%;
+}
+
+section {
+  height: 50vh;
+  width: 400px;
+  border: 2px solid rgb(25, 25, 70);
+  overflow-y: scroll;
+}
+
+img {
+  max-width: 400px;
+  max-height: 225px;
+}
+
+/* task 2 */
+.esports-tournaments {
+  /* float: left; */
+
 }
