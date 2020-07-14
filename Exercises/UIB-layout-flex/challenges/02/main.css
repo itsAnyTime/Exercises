@@ -9,3 +9,8 @@ div {
     border: 2px solid red;
     text-align: center;
 }
+
+.flex-container {
+    display: flex;
+    flex-direction: row-reverse;
+  }
