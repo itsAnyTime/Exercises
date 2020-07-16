@@ -6,7 +6,9 @@
 
 The image assets you need to create the page below can be found in the <a href="assets">assets directory</a>.
 
-<img src="/berlin/big.png" alt="webpage">
+Website:
+
+![reference-png](/Exercises/berlin/big.png)
 
 ## Working with the browser developer tools
 

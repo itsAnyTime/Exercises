@@ -4,7 +4,7 @@ The image assets you need to create the page below can be found in the <a href="
 
 Website:
 
-![reference-gif](./big.png)
+![reference-png](./big.png)
 
 ## Working with the browser developer tools
 
