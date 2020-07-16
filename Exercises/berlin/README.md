@@ -2,7 +2,9 @@
 
 The image assets you need to create the page below can be found in the <a href="assets">assets directory</a>.
 
-<img src="big.png" alt="webpage">
+Website:
+
+![reference-gif](./big.png)
 
 ## Working with the browser developer tools
 
@@ -15,3 +17,5 @@ As a next step let's make our webpage display nicely on phones.
 <img src="mini.png" alt="webpage">
 
 **_NOTA BENE_**: Try do not use `display: flex` or `display: grid` for this project. We will discuss Flexbox and Grid in due course. For now, please stick to the techniques discussed [here](https://www.w3schools.com/css/css_positioning.asp).
+
+Created: 16.07.2020
