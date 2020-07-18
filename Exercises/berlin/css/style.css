@@ -1,0 +1,87 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 900px;
+}
+
+/* logo */
+.container {
+    position: relative;
+}
+
+header img:nth-child(1) {
+    width: 17%;
+    margin: 3%;
+}
+
+header img:nth-child(2) {
+    width: 5%;
+    margin: 3%;
+
+    position: absolute;
+    right: 0;
+
+    /* position absolute and right (with parent relative), or float right without position (with parent relative too): */
+    /* float: right; */
+}
+/* logo styling end */
+
+/* hero image */
+main img {
+    /* width: 600px; */
+    color: green;
+}
+
+.box {
+    height: 400px;
+}
+
+/* 2.200px × 1.317px  */
+.main_pic {
+    background-image: url(../assets/reichstag.jpg); 
+     width: 100%; 
+     /* height: 800px; */
+     background-size: cover;
+     text-align: center; 
+     background-position: center;
+    /* background-repeat: no-repeat; */
+    /* max-width: 2200px; */
+}
+
+/* burger menü */
+/* nav img {
+    height: 5vh;
+    text-align: right;
+} */
+
+h1 {
+    font-style: italic;
+    color:white;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+
+    /* background-color: darkmagenta; */ 
+}
+
+p {
+    font-weight: 800;
+}
+
+.icons {
+    display: inline-block;
+}
+
+
+.icons img {
+    /* background-color: red; */
+    width: 15%;
+    /* float: left; */
+    padding: 20px;
+
+}
+
+footer {
+    background-color: rgb(117, 117, 117);
+    color: white;
+}
