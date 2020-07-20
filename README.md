@@ -4,7 +4,7 @@
 
 NOT finished
 
-### Movie Genres
+### Movie Genres (UIB layout out of ordinary)
 
 1.  Create a section with the class `genres`. Make it a flex-container.
 2.  Inside the flex-container, create 6 sections with the following content and background-colors. They should be created in the following order:
@@ -26,7 +26,7 @@ Created: 20.07.2020
 
 <hr>
 
-# Layout Planning 
+### Layout Planning  (without computer)
 
 * Create a **rough** pen and paper layout for mobile, tablet and desktop for the same site. 
 
@@ -41,7 +41,7 @@ Created: 20.07.2020
 
 <hr>
 
-## Let's make a webpage!
+### Let's make a webpage! (berlin)
 
 The image assets you need to create the page below can be found in the <a href="assets">assets directory</a>.
 
@@ -66,7 +66,7 @@ Created: 16.07.2020
 
 <hr>
 
-# Flex 
+### Flex (UIB layout flex)
 
 * 01: Use flexbox to align all divs in a row. Use wrap so that the divs appear on multiple rows. Center the rows in the container
 * 02: Use flexbox to align the divs in a row. Reverse the order of the divs.
@@ -81,7 +81,7 @@ Created: 14.07.2020
 
 <hr>
 
-# What's your background? 
+### What's your background? (UIB boxmodel backgroundimages)
 
 **Note**: The task starting files can be found in the corresponding folder names. Each task folder contains the necessary assets.
 
@@ -104,7 +104,8 @@ Created: 14.07.2020
 <hr>
 
 
-### Design Mockup:
+### Design Mockup (piano page)
+
 Use the given images, create a page that looks like the design-mockup:
 
 ![reference-task1](./Exercises/piano_page/images/design-mockup.png)
@@ -115,7 +116,7 @@ Created: 14.07.2020
 
 NOT Finished 
 
-# They see me scrolling
+### They see me scrolling (UIB boxmodel flow)
 
 **Task 1**
 * The sections with the class `esports-info` need to be styled. 
@@ -136,7 +137,7 @@ Created: 13.07.2020
 
 <hr>
 
-# Model the Boxes
+### Model the Boxes (UIB boxmodel modellingboxes)
 
 1. Create `html` and `css` files. Work from there.
 
@@ -151,7 +152,7 @@ Created: 13.07.2020
 
 <hr>
 
-# Contain Yourself
+### Contain Yourself (UIB boxmodel containing)
 
 * Style the header so that is takes up 100% of the viewport height. 
 * Add the `container.jpg` image from the [images folder](/Exercises/UIB-boxmodel-containing/images/) to the `img` tag found in the header.
@@ -221,6 +222,8 @@ div:nth-child(odd)
 div:nth-child(even)
 
 
+<hr>
+
 ### CSS Pseudo Classes
 
 1.  Create an empty HTML page with charset, title, etc.
@@ -269,7 +272,7 @@ Created: 6.7.2020
 
 <hr>
 
-## Assignment pseudo_classes 
+### Assignment pseudo_classes (assignment 06072020)
 
     1. all paragraphs with a class of “dull” 
     2. all elements that have both a “todo” class and an “urgent” class
@@ -290,7 +293,7 @@ Created: 6.7.2020
 
 <hr>
 
-## table of contents
+### table of contents
 
 1. Add a unique id to each heading tag in the page, make the id as descriptive as possible.
 
@@ -308,7 +311,7 @@ Created: 30.6.2020
 
 <hr>
 
-## git practise 1+2 
+### git practise 1+2 
 
 in linux
 
@@ -326,4 +329,3 @@ hiding files with .gitignore
 
 Created: Juni 2020
 
-<hr>
