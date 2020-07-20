@@ -2,6 +2,45 @@
 
 ## Basic_CSS_Exercises
 
+NOT finished
+
+### Movie Genres
+
+1.  Create a section with the class `genres`. Make it a flex-container.
+2.  Inside the flex-container, create 6 sections with the following content and background-colors. They should be created in the following order:
+    - Action → dodgerblue
+    - Thriller → rgb(190, 178, 178)
+    - Comedy → rgb(255, 214, 30)
+    - Horror → black
+    - Drama → darkgrey
+    - Romance → red
+3.  For each section, center the font.
+4.  Each flex-item should have a basic width of 500px and a fixed height of 100px. By default, each flex-item should take up all extra space.
+5.  Now, make an exception for "thriller" and "comedy", Both sections should take up 10 times the amount of extra-space of their adjacent element.
+    
+**Hint**: Consider using flex-wrap.
+
+![reference-gif](/Exercises/UIB_layout_out_of_ordinary/images/example.gif)
+
+Created: 20.07.2020
+
+<hr>
+
+# Layout Planning 
+
+* Create a **rough** pen and paper layout for mobile, tablet and desktop for the same site. 
+
+* The site must include: 
+    - A header
+    - A nav bar 
+    - Cards containing info 
+    - Footer  
+
+Created: 20.07.2020
+
+
+<hr>
+
 ## Let's make a webpage!
 
 The image assets you need to create the page below can be found in the <a href="assets">assets directory</a>.
@@ -64,31 +103,6 @@ Created: 14.07.2020
 
 <hr>
 
-
-
-### Movie Genres
-
-LATER
-
-1.  Create a section with the class `genres`. Make it a flex-container.
-2.  Inside the flex-container, create 6 sections with the following content and background-colors. They should be created in the following order:
-    - Action → dodgerblue
-    - Thriller → rgb(190, 178, 178)
-    - Comedy → rgb(255, 214, 30)
-    - Horror → black
-    - Drama → darkgrey
-    - Romance → red
-3.  For each section, center the font.
-4.  Each flex-item should have a basic width of 500px and a fixed height of 100px. By default, each flex-item should take up all extra space.
-5.  Now, make an exception for "thriller" and "comedy", Both sections should take up 10 times the amount of extra-space of their adjacent element.
-    
-**Hint**: Consider using flex-wrap.
-
-![reference-gif](/Exercises/UIB_layout_out_of_ordinary/images/example.gif)
-
-Created: 14.07.2020
-
-<hr>
 
 ### Design Mockup:
 Use the given images, create a page that looks like the design-mockup:
