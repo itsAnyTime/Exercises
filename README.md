@@ -124,7 +124,7 @@ As you check what your HTML looks like when the browser renders it, familiarize 
 
 As a next step let's make our webpage display nicely on phones.
 
-<img src="mini.png" alt="webpage">
+![reference-png](/Exercises/berlin/mini.png)
 
 **_NOTA BENE_**: Try do not use `display: flex` or `display: grid` for this project. We will discuss Flexbox and Grid in due course. For now, please stick to the techniques discussed [here](https://www.w3schools.com/css/css_positioning.asp).
 
