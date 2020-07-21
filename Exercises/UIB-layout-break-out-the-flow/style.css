@@ -4,3 +4,51 @@ html, body {
     height: 100%;
 }
 
+/* my solution: */
+/* 1: */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.halloword {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    /* 2. centering */
+    margin: 0 auto; 
+    /* 3. move */
+    position: relative;
+    right: 5px;
+    top: 7px;
+}
+
+/* 4 */
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    /* Position the box at the bottom-left of the screen.  */
+    position: absolute;
+    bottom: 0;
+}
+
+/* 5 */
+.box2 {
+    background-color: rgb(0, 255, 85);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+/* 6 */ 
+.box3 {
+    background-color: rgb(0, 183, 255);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
