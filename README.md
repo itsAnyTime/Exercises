@@ -2,8 +2,40 @@
 
 ## Basic_CSS_Exercises
 
+### 7 Boxes (UIB layout flexseven)
 
-### Breaking the flow
+1. Refresh your Flexbox skills with this fun game [flexboxfroggy](http://flexboxfroggy.com)
+
+2. Create 7 Boxes with Flexbox & Mediaqueries.
+
+3. There are 7 boxes on the page, each has a color. Style the boxes as follows:
+
+   * 0px-600px: boxes 1-7 should each take up 100% of one row
+
+   * 601px-800px: boxes 1 and 2 should each take 100% of one row, 3, 4 and 5 should each take up 33.33% of 1 row, and 6 and 7 should each take up 100% of one row
+
+   * 801px +: boxes 1 and 2 should each take up 50% of one row, 3, 4 and 5 each should take up 33.33% of 1 row, and 6 & 7 should each take up 50% of one row
+
+Images for reference:
+![desktop](./Exercises/UIB-layout-flexseven/images/desktop.png)
+
+![tablet](./Exercises/UIB-layout-flexseven/images/tablet.png)
+
+![mobile](./Exercises/UIB-layout-flexseven/images/mobile.png)
+   
+
+#### Rules
+
+-   This is an individual assignment.
+-   Deadline: 1 and 1/2 hours.
+-   Use **Git properly**
+-   Feel free to document your code with comments.
+
+Created: 21.7.2020
+
+<hr>
+
+### Breaking the flow (UIB layout break out the flow)
 
 1. Create an empty box with the class of `halloworld`. The box should have a width and height of 200px. Inside the box, add the text "Hallo World" and change the background color to orange.
 
@@ -84,11 +116,11 @@ Website:
 
 ![reference-png](/Exercises/berlin/big.png)
 
-## Working with the browser developer tools
+#### Working with the browser developer tools
 
 As you check what your HTML looks like when the browser renders it, familiarize yourself with the browser's developer tools. They allow you to inspect your HTML and CSS and try out changes! If you're using Chrome, you can learn more about its dev tools [here](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3).
 
-## BONUS: Part 2
+##### BONUS: Part 2
 
 As a next step let's make our webpage display nicely on phones.
 
