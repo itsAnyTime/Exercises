@@ -8,11 +8,17 @@ section {
 }
 
 /* my solution: */
+.task-one {
+    background-color: aqua;
+}
+
 .task-one:before {
+    background-color: rgb(195, 0, 255);
     content: "Once upon a time ...";
 }
 
 .task-one:after {
+    background-color: rgb(195, 0, 255);
     content: "...The end.";
 }
 
