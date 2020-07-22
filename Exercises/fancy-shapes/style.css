@@ -7,8 +7,7 @@ section {
     margin-top: 10px;
 }
 
-/* my: */
-
+/* my solution: */
 .task-one:before {
     content: "Once upon a time ...";
 }
@@ -17,23 +16,37 @@ section {
     content: "...The end.";
 }
 
-
 .task-two {
+    margin: auto;
     background-image: url(assets/beach.jpg);
-    height: 200px;
-    width: 200px;
-    /* background-repeat: no-repeat; */
-    /* clip-path: ellipse();  */
-    border-left: 40px solid transparent;
-    border-right: 40px solid transparent;
-    border-bottom: 80px solid lightblue;
-    
+    background-size: cover;
+    height: 600px;
+    width: 400px;
+    /* clip-path: ...  */
 }
 
+.task-two::before {
+    display: block;
+    content:"";
+    border-left: 200px solid white;
+    border-right: 200px solid white;
+    border-bottom: 300px solid transparent;
+}
+
+.task-two::after {
+    display: block;
+    content:"";
+    border-left: 200px solid white;
+    border-right: 200px solid white;
+    border-top: 300px solid transparent;
+}
 
 .task-three {
     background-image: url(assets/smiley.jpg);
     height: 410px;
+   /* width: 410px; and */
+   /* margin: 0 auto; */ 
     background-repeat: no-repeat;
-    transform: rotate(180deg);    
+    transform: rotate(180deg);  
+    background-position: center;
 }
