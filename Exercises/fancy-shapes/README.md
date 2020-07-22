@@ -16,4 +16,6 @@
 * Create an image element with the class `task-three`. Add the `smiley.jpg` image to the image element. 
 * Rotate the image 180 degrees to show the smiley upside-down.
 
-![reference-image](/assets/reference-image.png)
+![reference-image](/Exercises/fancy-shapes/assets/reference-image.png)
+
+Created: 22.7.2020

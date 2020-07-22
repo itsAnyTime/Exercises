@@ -1,6 +1,7 @@
 * {
     margin: 0; 
     padding: 0;
+    /* box-sizing: border-box; no need in this case, but mostly in using flex boxes */
 }
 
 .box1 { background-color: indigo; }
@@ -17,9 +18,9 @@ div {
 
 /* desktop */
 div {
-    height: 500px;
+    height: 100vh; /* resizing from up to top will shrink, cuz of the vh. px would be fixed and bring whitespace under the boxes */
     flex-basis: 100%;
-    flex-flow: row wrap;
+    flex-flow: wrap; /*row is default, no need to write */
 }
 
 .box1, .box2, .box6, .box7  {
@@ -33,9 +34,9 @@ div {
 /* tablet  */
 @media screen and (max-width: 800px) {
     div  {
-        height: 500px;
+        height: 100vh;
         flex-basis: 100%;
-        flex-flow: row wrap;
+        flex-flow: wrap;
     }
     
     .box1, .box2, .box6, .box7 {
@@ -50,7 +51,7 @@ div {
 /* mobile */
 @media screen and (max-width: 600px) {
     div  {
-        height: 100vh;
+        height: 100vh; 
         flex-basis: 100%;
     }
 
@@ -59,4 +60,4 @@ div {
      }
 }
 
-/* changed every width: 100%; to flex-basis: 100% (better)*/
+/* changed every width: 100%; to flex-basis: 100% (better practise/syntax rule)*/
