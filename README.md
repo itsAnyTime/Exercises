@@ -4,6 +4,9 @@
 
 ### CSS Animation tasks (animation)
 
+
+Created: 23.07.2020
+
 <hr>
 
 ### Do have some fun with Pseudo Elements (pseudo elements)
