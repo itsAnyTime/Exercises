@@ -7,21 +7,15 @@
 #### TASKS 1-5:
 -------------
 
-###### 1.
-Add a 2 second animation for the <div> element, which changes the color from red to blue. Call the animation 
+1. Add a 2 second animation for the <div> element, which changes the color from red to blue. Call the animation 
 
-###### 2.	
-Add the following 5 steps to the animation "example" (using 0%, 25%, 50%, 75%, and 100%):
+2. Add the following 5 steps to the animation "example" (using 0%, 25%, 50%, 75%, and 100%):
 
-###### 3.	
-Specify that the animation of the <div> element should have a "1" second delay before starting.
+3. Specify that the animation of the <div> element should have a "1" second delay before starting.
 
-###### 4.	
-Specify that the animation of the <div> element should continue to loop for ever.
+4. Specify that the animation of the <div> element should continue to loop for ever.
 
-###### 5.	
-Specify that the animation of the <div> element should alternate between running forwards and backwards.
-
+5. Specify that the animation of the <div> element should alternate between running forwards and backwards.
 
 Created: 23.07.2020
 
