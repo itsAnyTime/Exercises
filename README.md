@@ -2,9 +2,24 @@
 
 ## Basic_CSS_Exercises
 
-### I'm so fancy (fancy-shapes)
+# Do have some fun with Pseudo Elements (pseudo elements)
 
-**Instructions**: 
+NOT started
+
+**Task** 
+* Create two divs with the class `box`. 
+* Add one more class to each div `with-circle` and `with-triangle`
+* Use the css-pseudo elements `::before` and `::after` to create one circle and one triangle.
+* Set position to abolute for circle and triangle and move them on the top of box as shown in reference image below.
+
+![reference-image](sample-image.jpg)
+
+Created: 23.07.2020
+
+
+<hr>
+
+### I'm so fancy (fancy-shapes)
 
 **Task 1** 
 * Create a section with the class `task-one`. 
