@@ -174,7 +174,7 @@ Created: 20.07.2020
 
 Not perfect
 
-The image assets you need to create the page below can be found in the <a href="assets">assets directory</a>.
+The image assets you need to create the page below can be found in the <a href="/Exercises/berlin/assets">assets directory</a>.
 
 Website:
 
