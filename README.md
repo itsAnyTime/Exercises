@@ -7,6 +7,8 @@
 #### TASKS 1-5:
 -------------
 
+NOT started
+
 1. Add a 2 second animation for the div element, which changes the color from red to blue. Call the animation 
 
 2. Add the following 5 steps to the animation "example" (using 0%, 25%, 50%, 75%, and 100%):
@@ -39,6 +41,8 @@ Created: 23.07.2020
 <hr>
 
 ### I'm so fancy (fancy-shapes)
+
+Redo
 
 **Task 1** 
 * Create a section with the class `task-one`. 
@@ -167,6 +171,8 @@ Created: 20.07.2020
 <hr>
 
 ### Let's make a webpage! (berlin)
+
+Not perfect
 
 The image assets you need to create the page below can be found in the <a href="assets">assets directory</a>.
 
