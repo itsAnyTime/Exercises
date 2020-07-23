@@ -3,9 +3,27 @@ div {
     height: 100px;
     background-color: red;
     animation: example 2s infinite;
+
+/*  animation-name: example;
+    animation-duration: 2s; */
+
   }
 
   @keyframes example {
     from {}
     to {background-color: blue;}
   }
+
+
+ /* other solution: */
+ 
+/*  div {
+ width: 100px;
+ height: 100px;
+ background-color: red;
+ animation-name: example;
+ animation-duration: 4s;
+} @keyframes example {
+ from {background-color: red;}
+ to {background-color: yellow;}
+} */
