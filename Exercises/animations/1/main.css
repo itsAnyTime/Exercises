@@ -1,0 +1,11 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation: example 2s infinite;
+  }
+
+  @keyframes example {
+    from {}
+    to {background-color: blue;}
+  }

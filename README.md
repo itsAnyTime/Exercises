@@ -1,13 +1,13 @@
 # Exercises - just for practise
 
-## Basic_CSS_Exercises
+## Basic Interaction Exercises
 
 ### CSS Animation tasks (animations)
 
-#### TASKS 1-5:
--------------
+#### TASKS 1-6:
+----------------
 
-NOT started
+started
 
 1. Add a 2 second animation for the div element, which changes the color from red to blue. Call the animation 
 
@@ -18,6 +18,8 @@ NOT started
 4. Specify that the animation of the div element should continue to loop for ever.
 
 5. Specify that the animation of the div element should alternate between running forwards and backwards.
+
+6. Edit the code to make the divs' background color fade in and out infinitely when a user's mouse hovers over the respective element.
 
 Created: 23.07.2020
 
@@ -39,6 +41,8 @@ Created: 23.07.2020
 
 
 <hr>
+
+## Basic_CSS_Exercises
 
 ### I'm so fancy (fancy-shapes)
 
