@@ -2,7 +2,11 @@
 
 ## Basic_CSS_Exercises
 
-# Do have some fun with Pseudo Elements (pseudo elements)
+### CSS Animation tasks (animation)
+
+<hr>
+
+### Do have some fun with Pseudo Elements (pseudo elements)
 
 NOT started
 
@@ -12,7 +16,7 @@ NOT started
 * Use the css-pseudo elements `::before` and `::after` to create one circle and one triangle.
 * Set position to abolute for circle and triangle and move them on the top of box as shown in reference image below.
 
-![reference-image](sample-image.jpg)
+![reference-image](Exercises/pseudo-elements/sample-image.jpg)
 
 Created: 23.07.2020
 
