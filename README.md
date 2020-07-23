@@ -2,7 +2,7 @@
 
 ## Basic_CSS_Exercises
 
-### CSS Animation tasks (animation)
+### CSS Animation tasks (animations)
 
 
 Created: 23.07.2020
