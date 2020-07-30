@@ -336,7 +336,7 @@ Created: 13.07.2020
 
 ![alt-text](/Exercises/directions/reference.png "Reference Image")
 
-My result: https://itsanytime.github.io/temp/directions/index.html
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/directions/
 
 Created: 9.7.2020
 
@@ -353,7 +353,7 @@ Goal: </br>
 Before: </br>
 ![alt-text](/Exercises/pseudo+clip-path+writing-mode/vorher.png "before")
 
-My result: https://itsanytime.github.io/temp/pseudo+clip-path+writing-mode/index.html
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/pseudo+clip-path+writing-mode/
 
 Created: 9.7.2020
 
@@ -371,7 +371,7 @@ Created: 9.7.2020
 
 ![alt text](/Exercises/style_text2/reference-image.png "Shopping List Result")
 
-My result: https://itsanytime.github.io/temp/style_text2/index.html
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/style_text2/
 
 Created: 9.7.2020
 
@@ -398,7 +398,7 @@ Created: 9.7.2020
 
 ![mockup-image](/Exercises/stylish_text/reference-image.png)
 
-My result: https://itsanytime.github.io/temp/stylish_text/index.html
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/stylish_text/
 
 Created: 9.7.2020
 
@@ -416,7 +416,7 @@ Created: 9.7.2020
 *   Desktop
     ![alt-text](/Exercises/fontawesome/reference-image-desktop.png "Reference Image Desktop")
 
-My result: https://itsanytime.github.io/temp/fontawesome/index.html
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/fontawesome/
 
 
 
