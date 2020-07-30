@@ -303,7 +303,7 @@ Created: 13.07.2020
 
 <hr>
 
-### Block vs. Inline: (same foldergit  name)
+### Block vs. Inline: (same folder name)
 
     Create an index.html file with 3 paragraphs, each containing the words “This is a paragraph”.
     Draw a border around each element.
