@@ -11,4 +11,4 @@ Goal: </br>
 Before: </br>
 ![alt-text](vorher.png "before")
 
-My result: https://itsanytime.github.io/temp/pseudo+clip-path+writing-mode/index.html
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/pseudo+clip-path+writing-mode/
