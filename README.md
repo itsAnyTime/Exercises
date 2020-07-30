@@ -303,7 +303,7 @@ Created: 13.07.2020
 
 <hr>
 
-### Block vs. Inline:
+### Block vs. Inline: (same folder name)
 
     Create an index.html file with 3 paragraphs, each containing the words “This is a paragraph”.
     Draw a border around each element.
@@ -324,8 +324,108 @@ Created: 13.07.2020
 Created: 13.07.2020
 
 <hr>
+-----------------------------------------------
 
-### Exercise: CSS Selectors 1
+### Language Placeholder
+
+#### directions (same folder name)
+
+-   Center all headings.
+-   Justify all paragraph elements.
+-   Convert the direction of the Arabic text to be read right-to-left.
+
+![alt-text](/Exercises/directions/reference.png "Reference Image")
+
+My result: https://itsanytime.github.io/temp/directions/index.html
+
+Created: 9.7.2020
+
+<hr>
+
+**Bonusaufgabe:** pseudo, clip-path, writing-mode (pseudo+clip-path+writing-mode)
+
+Create the CSS.style, without changing the html. Using pseudo classes. 
+It shall look like the reference.png picture
+
+Goal: </br>
+![alt-text](/Exercises/pseudo+clip-path+writing-mode/reference.png "Reference Image")
+
+Before: </br>
+![alt-text](/Exercises/pseudo+clip-path+writing-mode/vorher.png "before")
+
+My result: https://itsanytime.github.io/temp/pseudo+clip-path+writing-mode/index.html
+
+Created: 9.7.2020
+
+<hr>
+
+### Shopping List (style_text2)
+
+-   Choose a font on google fonts. Select different font weights e.g. light, regular, bold. Apply the font to all the elements on the page.
+-   Create a stylesheet and work from there.
+-   Underline the h1 heading.
+-   Give all list items a light font weight.
+-   Give all headings with the class of `heading` a shadow and, in CSS, make all these elements appear uppercase.
+-   Give the element with the class of `note` a bold font weight. Make the text appear italic.
+-   Strike through all the elements with the class `todo-item`.
+
+![alt text](/Exercises/style_text2/reference-image.png "Shopping List Result")
+
+My result: https://itsanytime.github.io/temp/style_text2/index.html
+
+Created: 9.7.2020
+
+<hr>
+
+## Basic Typography Exercises
+
+### Exercise: Text styling and formatting (stylish_text)
+
+-   Change the `body`'s font color and font family. Use a fallback system.
+-   Change the headings' font family, use a fallback system and make them bold.
+-   Make the `<h1>` 3 times the size of the base font-size.
+-   Make the `<h3>` 1.5 times the size of the base font-size. Center this element.
+-   Make the `blockquote`'s text italic.
+-   Cross out the `<span>`.
+-   Make the `<em>`'s words all start with a capital letter.
+-   Make the `<strong>` element all capital and bold.
+-   Change the color of the link and remove its underline.
+
+**Bonusaufgabe**:
+
+-   Decrease the space between the `<h3>`'s letters and increase the space between its words.
+-   Add more space between the `blockquote`'s lines.
+
+![mockup-image](/Exercises/stylish_text/reference-image.png)
+
+My result: https://itsanytime.github.io/temp/stylish_text/index.html
+
+Created: 9.7.2020
+
+<hr>
+
+### Make your fonts awesome! (fontawesome)
+
+-   Link font awesome to your html page.
+-   Add a font awesome icon to the front and back of the h1 heading.
+-   Center and underline the h1 heading.
+-   Center the element with the class `review`. Give this element text shadow and display the text as uppercase.
+-   Add icons to the front of each paragraph element nested in the sections with the class `info`.
+-   Add appropriate icons after each possible review.
+
+*   Desktop
+    ![alt-text](/Exercises/fontawesome/reference-image-desktop.png "Reference Image Desktop")
+
+My result: https://itsanytime.github.io/temp/fontawesome/index.html
+
+
+
+created: 9.7.2020
+
+-----------------------------------------------
+<hr>
+
+### Exercise: CSS Selectors 1 (same folder name)
 
 1. Select all h3 elements and change the elements' color to blue.
 2. Select list items 3-5 in task 2 using classes. Change the elements' color to red.
@@ -340,7 +440,7 @@ Created: 7.7.2020
 
 <hr>
 
-### Descendant Selectors
+### Descendant Selectors (same folder name)
 
 1. Modify the given page to make it look like the mockup.
 
@@ -359,7 +459,7 @@ div:nth-child(even)
 
 <hr>
 
-### CSS Pseudo Classes
+### CSS Pseudo Classes (same folder name)
 
 1.  Create an empty HTML page with charset, title, etc.
 2.  Add buttons for 3 search engines of your choice, using different colors.
@@ -428,7 +528,7 @@ Created: 6.7.2020
 
 <hr>
 
-### table of contents
+### table of contents (same folder name)
 
 1. Add a unique id to each heading tag in the page, make the id as descriptive as possible.
 
