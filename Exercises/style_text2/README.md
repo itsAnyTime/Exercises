@@ -11,3 +11,5 @@
 -   Strike through all the elements with the class `todo-item`.
 
 ![alt text](reference-image.png "Shopping List Result")
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/style_text2/
