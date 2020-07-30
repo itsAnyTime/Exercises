@@ -324,7 +324,6 @@ Created: 13.07.2020
 Created: 13.07.2020
 
 <hr>
------------------------------------------------
 
 ### Language Placeholder
 
@@ -422,7 +421,6 @@ My result: https://itsanytime.github.io/DCI_Exercises/Exercises/fontawesome/
 
 created: 9.7.2020
 
------------------------------------------------
 <hr>
 
 ### Exercise: CSS Selectors 1 (same folder name)
