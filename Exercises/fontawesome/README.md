@@ -11,3 +11,5 @@
 
 *   Desktop
     ![alt-text](reference-image-desktop.png "Reference Image Desktop")
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/fontawesome/
