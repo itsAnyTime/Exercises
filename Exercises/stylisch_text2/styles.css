@@ -1,0 +1,61 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+blockquote {
+    margin: 0 0 0 30px;
+    font-style: italic;
+    text-indent: 45px;
+line-height: 39px; /* bonus */
+}
+
+h1, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslateblue;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 300%
+}
+
+h3 {
+    font-size: 150%;
+    text-align: center;
+word-spacing: 10px; /* bonus */
+letter-spacing: 3px; /* bonus */
+}
+
+span {
+    text-decoration: line-through;
+}
+
+em {
+    text-transform: capitalize;
+}
+
+strong {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a:link {
+    text-decoration: none;
+    color: goldenrod;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:visited {
+    color: darkmagenta;
+}
