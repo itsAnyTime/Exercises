@@ -1,0 +1,12 @@
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+p:nth-child(4) {
+    direction: rtl;
+}
+

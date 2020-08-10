@@ -1,0 +1,41 @@
+.pagehead {
+    text-align: center;
+    color: rgb(74, 74, 253);
+    text-transform: capitalize;
+    letter-spacing: 0.1em;
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0% 100%); /* % like vh, is responsive */
+    background-color: rgba(0, 0, 255, 0.5);
+    height: 40vh; /* vh for responsive, px is fixed! */
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    margin-bottom: 2px;
+    margin-top: 3px;
+}
+
+/* (also possible) */
+/* p:nth-of-type(1) */ 
+/* .pagehead + p  */
+/* p:nth-child(2)  */ 
+p:first-of-type  
+{
+    word-spacing: 2em;
+    text-indent: 20px;
+    line-height: 2em;
+}
+
+/* (also possible) */
+/* .pagehead + p + p */
+p:nth-child(3) {
+    margin-left: 0;
+    font-size: 2em;
+    color: white;
+    text-shadow: 1px 1px 2px rgb(133, 130, 130), 0 0 25px blue, 0 0 5px darkblue;
+    writing-mode: vertical-lr;  
+    /* if u want to rotate:
+    transform: rotate(180deg); 
+    mirror would be:
+    transform: scaleX(-1) */ 
+}

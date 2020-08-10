@@ -1,0 +1,39 @@
+/* other way to include, instead in html head:
+ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+
+/* :root {
+    font-family: 'Orbitron', sans-serif;
+} can go into the * (star) */
+
+* {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 100;
+    font-size: 1.1em;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 2em;
+}
+
+li {
+    font-weight: lighter;
+    color: grey;
+}
+
+.heading {
+    /* 1px, wide, blur radius, color */
+    text-shadow: rgb(0, 102, 255) 1px 0 10px;
+    text-transform: uppercase;
+    color: blue;
+}
+
+.note {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.todo-item {
+    text-decoration: line-through;
+}

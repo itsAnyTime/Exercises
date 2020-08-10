@@ -1,0 +1,50 @@
+
+.nav-item, .media-links {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+header i {
+    color: green;
+
+}
+
+header i + i {
+ transform:rotate(120eg);
+ transform: scaleX(-1)
+}
+
+.review {
+    text-align: center;
+    text-shadow: 5px 15px 30px green;
+    text-transform: uppercase;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.bonus i+i {
+    font-size: 1.5em;
+    
+}
+
+.bonus i+i+i {
+    font-size: 2em;
+}
+
+
+.bonus i+i+i+i {
+    color: red;
+    font-size: 2.5em;
+}
+
+/* button {
+    text-align: center;
+    background-color: green;
+} */
