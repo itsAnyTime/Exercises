@@ -1,6 +1,6 @@
 # Exercises - just for practise
 
-## Sports Grid
+## Sports Grid (UIB-layout-grid-parent)
 
 **Instructions**: 
 * Nest all the sports images from the [assets folder](/Exercises/UIB-layout-grid-parent/assets) into the main element with the class `container`. 
