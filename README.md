@@ -1,15 +1,23 @@
 # Exercises - just for practise
 
 
+# Basic Data Exercises
 
+## Styling Forms (UIB-data-stylingforms)
+
+**Instructions**:
+
+1.  Create a basic HTML page with all important elements.
+2.  Look at the mockup image. Create a form and style it like the mockup.
+3.  Use the provided images in the img folder.
+
+![mockup-image](/Exercises/UIB-data-stylingforms/images/reference-image.png)
 
 Created: 11.8.20
 
 <hr>
 
-# Basic Data Exercises
-
-## Exercise: Form 1
+## Exercise: Form 1  (UIB-data-form)
 
 Not finish: Text labels not clickable
 
