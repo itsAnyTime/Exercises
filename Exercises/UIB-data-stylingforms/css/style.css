@@ -4,16 +4,80 @@
 }
 
 body {
-    background-image: url("../images/background.jpg");
-    background-repeat: no-repeat;
-    width: 800px;
-    height: 1080px;
+    width: 1000px;
+    height: auto;
     background-color: black;
     margin: 0 auto;
+    color: rgb(70, 70, 70);
+    text-align: center;
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: -125px;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
     color: white;
+    background-color: rgb(43, 53, 53);
+    text-align: left;
+    text-transform: uppercase;
+    display: block;
+    padding: 7px;
+}
+
+main {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.logo {
+     margin: 15px;
+     text-align: center;
+}
+
+.box1 {
+    border: 5px solid black;
+    background-color: rgba(255, 255, 255, 0.815);
+    margin-bottom: 15px; 
+    padding: 10px;    
+}
+
+.block {
+    /* background-color: green; */
+    width: 40%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.block input {
+    width: 97%;
+    height: 30px;
+    padding-left: 6px;
+}
+
+h1 {
+    margin-bottom: 10px;
 }
 
 form {
-     
+     background-color: rgb(189, 189, 189);
+     padding: 15px;
 }
 
+.button {
+    background-color: rgb(57, 59, 57);
+    color: rgb(222, 236, 235);
+    width: 100% !important;
+    font-style: italic;
+    font-size: 18px;
+    height: 35px !important;
+    margin-top: 4px;
+}
+
+footer {
+    margin: 15px;
+    text-align: center;
+    color: rgb(117, 116, 114);
+}

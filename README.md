@@ -11,6 +11,8 @@
 
 ![mockup-image](/Exercises/UIB-data-stylingforms/images/reference-image.png)
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-data-stylingforms/
+
 Created: 11.8.2020
 
 <hr>

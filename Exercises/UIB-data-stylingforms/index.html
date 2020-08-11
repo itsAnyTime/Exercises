@@ -9,40 +9,39 @@
 </head>
 
 <body>
-    <p class="logo"><img src="images/logo.png"></p>
-    <p>The Best Craft Beer in Spain!</p>
-    <p>Bienvenido, amigos! We are completely fictional location. But that does not mean we can't imagine the best beer
-        in Spain!</p>
+    <header>
+        <p class="logo"><img src="images/logo.png"></p>
+    </header>
 
+    <main>
+        <div class="box1">
+            <h1>The Best Craft Beer in Spain!</h1>
 
-    <form action="#" method="get">
-        <div>
-        <input name="name" type="text"><br>
-        <input type="name" value="John B. Goode">
-    </div>
+            <p>Bienvenido, amigos! We are completely fictional location. But that does not mean we can't imagine the
+                best beer in Spain!</p>
+        </div>
 
+        <div class="box2">
+            <form action="#" method="get">
+                <h2>Make a reservation</h2>
+                <br>
+                <p> Get your spot before somebody else does!</p><br>
 
+                <div class="block">
+                    <label for="name">Your Name</label>
+                    <input type="text" value="John B. Goode" name="name" id="name">
 
+                    <label for="email">Your Email</label>
+                    <input type="email" value="john@goode.com" name="email" id="email">
 
+                    <label for="time">Reservation Time</label>
+                    <input type="date" name="time" id="end" placeholder="mm/dd/yyyy">
 
-        Make a reservation
-
-        Get your spot before somebody else does!
-
-        Your name
-        John B. Goode
-
-        Your Email
-
-        Reservation Time
-
-
-        Reserve Now
-
-
-
-    </form>
-
+                    <input type="button" class="button" value="Reserve Now">
+                </div>
+            </form>
+        </div>
+    </main>
     <footer>
         <p>&copy; 2018 - El Amigo</p>
     </footer>
