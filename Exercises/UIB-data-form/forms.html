@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <script src=https://kit.fontawesome.com/3c09bcb51a.js crossorigin="anonymous"></script>
+    <title>Order Form</title>
+</head>
+
+<style>
+    body {
+        background-color: #414141;
+        color: white;
+        font-family: Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    main {
+        /* background-color: yellow; */
+        position: relative;
+        width: 40%;
+        height: 485px;
+        margin: 0 auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .pd {
+        position: absolute;
+        left: 10px;
+        width: 40%;
+    }
+
+    .products {
+        position: absolute;
+        height: 370px;
+        margin-left: 50%;
+        width: 40%;
+    }
+
+    .submit_order {
+        position: absolute;
+        bottom: -35px;
+        /* text-align: center; */
+        background-color: #1c9d1c;
+        color: white;
+        margin-left: -82px;
+    }
+
+    footer {
+        /* bottom: 10px; */
+        text-align: center;
+        position: relative;
+        color: white;
+    }
+
+    @media only screen and (max-width: 1075px) {
+        .pd {
+            position: relative;
+            left: 0;
+            width: 30%;
+            margin: 0 auto;
+        }
+
+        .products {
+            position: relative;
+            /* margin-left: 2px; */
+            width: 30%;
+            margin: 0 auto;
+            min-width: 175px;
+            /* margin: 0 auto; */
+        }
+
+        main {
+            width: auto;
+            height: 825px;
+        }
+
+        /* 
+        .submit_order {
+            margin: 0 auto;
+        } */
+    }
+</style>
+
+
+<body>
+    <header>
+        <h1><i class="fas fa-code-branch"></i> Forms <i class="fas fa-code-branch"></i></h1>
+    </header>
+
+    <main>
+        <form action="#" method="get">
+            <fieldset class="pd">
+                <legend>Personal Data</legend>
+
+                <label for="firstname">First name:</label><br>
+                <input type="text" name="firstname" id="firstname"><br>
+
+                <label for="lastname">Last name:</label><br>
+                <input type="lastname" name="lastname" id="lastname"><br>
+
+                <label for="street">Street:</label><br>
+                <input type="street" name="street" id="street"><br>
+
+                <label for="zipcode">Zipcode:</label><br>
+                <input type="zipcode" name="zipcode" id="zipcode"><br>
+
+                <label for="city">City:</label><br>
+                <input type="city" name="city" id="city"><br>
+
+                <label for="phone">Phone:</label><br>
+                <input type="phone" name="phone" id="phone"><br>
+
+                <label for="email">Email:</label><br>
+                <input type="email" name="email" id="email">
+                <br><br>
+                <textarea name="msg" id="msg" cols="auto" rows="3"
+                    placeholder="Tell us more about important colors, etc."></textarea><br>
+
+            </fieldset>
+
+            <fieldset class="products">
+                <legend>Products</legend>
+                <p>Web Design:</p>
+                <input type="radio" name="genre" value="individual" checked="checked"> Individual
+                <input type="radio" name="genre" value="template"> Template
+
+                <p>Web Development:</p>
+                <input type="checkbox" name="genre" value="html_css"> HTML & CSS <br>
+                <input type="checkbox" name="genre" value="javascript"> Javascript<br>
+                <input type="checkbox" name="genre" value="mongodb"> MongoDB<br>
+                <br>
+                <label for="start">Project Start:</label><br>
+                <input type="date" name="start" id="start" placeholder="mm/dd/yyyy"><br>
+
+                <label for="end">Project End:</label><br>
+                <input type="date" name="end" id="end" placeholder="mm/dd/yyyy"><br>
+                <br>
+                Category:<br>
+                <select name="pianist">
+                    <option value="personal">Personal</option>
+                    <option value="schiff">Schiff</option>
+                    <option value="perahia">Perahia</option>
+                    <option value="monk">Monk</option>
+                </select>
+
+                <input type="button" class="submit_order" value="Order our services">
+
+            </fieldset>
+        </form>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2020 itsAnyTime</p>
+    </footer>
+</body>
+
+</html>
