@@ -79,11 +79,6 @@
             width: auto;
             height: 825px;
         }
-
-        /* 
-        .submit_order {
-            margin: 0 auto;
-        } */
     }
 </style>
 
@@ -126,21 +121,27 @@
 
             <fieldset class="products">
                 <legend>Products</legend>
-                <p>Web Design:</p>
-                <input type="radio" name="genre" value="individual" checked="checked"> Individual
-                <input type="radio" name="genre" value="template"> Template
+                <!-- clickable text through using label. "label for" needs an id -->
+                <label for="webdesign">Web Design:</label><br><br>
+                <input type="radio" name="webdesign" id="invdesign"><label for="invdesign">Individual</label>
+                <input type="radio" name="webdesign" id="template"><label for="template">Template</label>
+                <br><br>
 
-                <p>Web Development:</p>
-                <input type="checkbox" name="genre" value="html_css"> HTML & CSS <br>
-                <input type="checkbox" name="genre" value="javascript"> Javascript<br>
-                <input type="checkbox" name="genre" value="mongodb"> MongoDB<br>
+                <label for="webdev">Web Development:</label><br><br>
+                <input type="checkbox" name="webdev" value="html_css" id="html">
+                <label for="html">HTML & CSS</label> <br>
+                <input type="checkbox" name="webdev" value="javascript" id="javascript">
+                <label for="javascript">Javascript</label> <br>
+                <input type="checkbox" name="webdev" value="mongodb" id="mongodb">
+                <label for="mongodb">MongoDB</label> <br>
                 <br>
+
                 <label for="start">Project Start:</label><br>
                 <input type="date" name="start" id="start" placeholder="mm/dd/yyyy"><br>
-
                 <label for="end">Project End:</label><br>
                 <input type="date" name="end" id="end" placeholder="mm/dd/yyyy"><br>
                 <br>
+            
                 Category:<br>
                 <select name="pianist">
                     <option value="personal">Personal</option>

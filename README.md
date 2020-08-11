@@ -5,31 +5,33 @@
 
 ## Styling Forms (UIB-data-stylingforms)
 
-**Instructions**:
-
 1.  Create a basic HTML page with all important elements.
 2.  Look at the mockup image. Create a form and style it like the mockup.
 3.  Use the provided images in the img folder.
 
 ![mockup-image](/Exercises/UIB-data-stylingforms/images/reference-image.png)
 
-Created: 11.8.20
+Created: 11.8.2020
 
 <hr>
 
 ## Exercise: Form 1  (UIB-data-form)
 
-Not finish: Text labels not clickable
-
 1.  Create a form wherein a user can input their details and choose their respective skills. See the image for the input fields, skills and design of the form.
 
 ![mockup-image](Exercises/UIB-data-form/image/mockup.png)
+
+Bonus: responsive
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-data-form/forms.html
 
 Created: 10.8.2020
 
 <hr>
 
 ### Grid 12 Boxes
+
+Started
 
 #### Task 1:
 
