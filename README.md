@@ -1,6 +1,25 @@
 # Exercises - just for practise
 
-## Instructions for students:
+
+
+
+Created: 11.8.20
+
+<hr>
+
+# Basic Data Exercises
+
+## Exercise: Form 1
+
+Not finish: Text labels not clickable
+
+1.  Create a form wherein a user can input their details and choose their respective skills. See the image for the input fields, skills and design of the form.
+
+![mockup-image](Exercises/UIB-data-form/image/mockup.png)
+
+Created: 10.8.2020
+
+<hr>
 
 ### Grid 12 Boxes
 
