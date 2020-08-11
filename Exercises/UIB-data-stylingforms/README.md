@@ -9,3 +9,7 @@
 3.  Use the provided images in the img folder.
 
 ![mockup-image](./images/reference-image.png)
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-data-stylingforms/
+
+Created: 11.08.2020
