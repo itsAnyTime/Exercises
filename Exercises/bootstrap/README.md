@@ -9,4 +9,6 @@ Use the mockup image as a guide.
 * Refer to bootstrap documentation for more info.
 
 
-![mockup-image](/image/mockup.png)
+![mockup-image](./image/mockup.png)
+
+Created: 12.08.2020
