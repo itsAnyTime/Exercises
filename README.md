@@ -434,6 +434,8 @@ Created: 13.07.2020
 
 3.  Use `<header>`, `<main>`, `<footer>`, `<aside>` to structure the html page.
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-modellingboxes/
+
 Created: 13.07.2020
 
 <hr>
@@ -449,6 +451,7 @@ Created: 13.07.2020
 * Select the `container` class. Give it a width of 80% and center it in the middle of the page.
 ![main-mock](/Exercises/UIB-boxmodel-containing/images/main.png)
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-containing/
 
 Created: 13.07.2020
 
