@@ -10,5 +10,6 @@
 
 ![alt-text](/Exercises/css_selectors_1/image/reference-image.png "Reference Image")
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/css_selectors_1/
 
 Created: 7.7.2020

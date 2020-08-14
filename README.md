@@ -475,6 +475,8 @@ Created: 13.07.2020
     Give a paragraph a width of 300px and a padding of 20px.  Inspect the result with DevTools.  Which of the boxes associated with this paragraph  (content-box, padding-box, border-box, margin-box) has a width of 300px?
     (Bonus) Ensure that, for any (current or future) element on this page, width applies to the border-box.
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/block_vs_inline/
+
 Created: 13.07.2020
 
 <hr>
@@ -587,6 +589,7 @@ created: 9.7.2020
 
 ![alt-text](/Exercises/css_selectors_1/image/reference-image.png "Reference Image")
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/css_selectors_1/
 
 Created: 7.7.2020
 
@@ -597,6 +600,8 @@ Created: 7.7.2020
 1. Modify the given page to make it look like the mockup.
 
 ![alt-text](/Exercises/descendant-selectors/mockup.png "Reference Image")
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/descendant-selectors/
 
 Created: 6.7.2020
 
@@ -620,6 +625,8 @@ div:nth-child(even)
 5.  Add some additional styling to your page e.g. background colors.
 
 ![alt-text](/Exercises/css_pseudo_classes/image/reference-image.png "Reference Image")
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/css_pseudo_classes/my_solution/
 
 Created: 6.7.2020
 
