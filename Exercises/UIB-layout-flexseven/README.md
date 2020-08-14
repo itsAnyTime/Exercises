@@ -21,12 +21,14 @@ Images for reference:
 
 ![mobile](./images/mobile.png)
    
-
+   
 ### Rules
 
 -   This is an individual assignment.
 -   Deadline: 1 and 1/2 hours.
 -   Use **Git properly**
 -   Feel free to document your code with comments.
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flexseven/main.html
 
 Created: 21.7.2020

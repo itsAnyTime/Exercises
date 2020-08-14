@@ -10,4 +10,6 @@
 * Select the `container` class. Give it a width of 80% and center it in the middle of the page.
 ![main-mock](./images/main.png)
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-containing/
+
 Created: 13.07.2020

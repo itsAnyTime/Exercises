@@ -108,9 +108,6 @@ Created: 10.8.2020
 
 ### CSS Animation tasks (animations)
 
-#### TASKS 1-6:
-----------------
-
 started. 1-5 check solutions, 6 started
 
 1. Add a 2 second animation for the div element, which changes the color from red to blue. Call the animation 
@@ -230,6 +227,8 @@ Images for reference:
 -   Use **Git properly**
 -   Feel free to document your code with comments.
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flexseven/main.html
+
 Created: 21.7.2020
 
 <hr>
@@ -253,6 +252,7 @@ Created: 21.7.2020
 7. Place `box3` **behind** `box2`.
 ![reference-image](/Exercises/UIB-layout-break-out-the-flow/images/reference-image2.png)
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-break-out-the-flow/
 
 Created: 21.07.2020
 
@@ -309,7 +309,7 @@ Created: 20.07.2020
 
 ### Let's make a webpage! (berlin)
 
-Not perfect
+NOT 100% ready
 
 The image assets you need to create the page below can be found in the <a href="/Exercises/berlin/assets">assets directory</a>.
 
@@ -329,6 +329,8 @@ As a next step let's make our webpage display nicely on phones.
 
 **_NOTA BENE_**: Try do not use `display: flex` or `display: grid` for this project. We will discuss Flexbox and Grid in due course. For now, please stick to the techniques discussed [here](https://www.w3schools.com/css/css_positioning.asp).
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/berlin/
+
 Created: 16.07.2020
 
 
@@ -344,6 +346,14 @@ Created: 16.07.2020
 * 06: Use flexbox to display all divs in one column in the center of the page.
 
 **Note**: Instructions can also be found in the css file for each exercise. 
+
+My results:
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/01/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/02/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/03/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/04/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/05/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/06/
 
 Created: 14.07.2020
 
@@ -366,6 +376,10 @@ Created: 14.07.2020
 
 ![task1-reference](./Exercises/UIB-boxmodel-backgroundimages/images/task2.png)
 
+My results: 
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-backgroundimages/task-1/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-backgroundimages/task-2/
+
 Created: 14.07.2020
 
 
@@ -377,6 +391,8 @@ Created: 14.07.2020
 Use the given images, create a page that looks like the design-mockup:
 
 ![reference-task1](./Exercises/piano_page/images/design-mockup.png)
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/piano_page/
 
 Created: 14.07.2020
 
@@ -399,6 +415,8 @@ NOT Finished
 ![reference-task2](./Exercises/UIB-boxmodel-flow/images/reference-task2.png)
 
 ![reference-task](./Exercises/UIB-boxmodel-flow/images/reference.png)
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-flow/
 
 Created: 13.07.2020
 

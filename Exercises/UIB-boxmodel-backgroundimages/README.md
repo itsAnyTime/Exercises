@@ -17,4 +17,9 @@
 
 ![task1-reference](./images/task2.png)
 
+My results: 
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-backgroundimages/task-1/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-backgroundimages/task-2/
+
+
 Created: 14.07.2020

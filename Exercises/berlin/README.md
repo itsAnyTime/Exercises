@@ -18,4 +18,7 @@ As a next step let's make our webpage display nicely on phones.
 
 **_NOTA BENE_**: Try do not use `display: flex` or `display: grid` for this project. We will discuss Flexbox and Grid in due course. For now, please stick to the techniques discussed [here](https://www.w3schools.com/css/css_positioning.asp).
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/berlin/
+
+
 Created: 16.07.2020

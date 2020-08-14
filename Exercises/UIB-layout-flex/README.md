@@ -11,5 +11,13 @@
 
 **Note**: Instructions can also be found in the css file for each exercise. 
 
+My results: 
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/01/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/02/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/03/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/04/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/05/
+https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-layout-flex/challenges/06/
+
 Created: 14.07.2020
 

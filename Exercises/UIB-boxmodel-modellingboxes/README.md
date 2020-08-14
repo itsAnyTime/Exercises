@@ -11,4 +11,6 @@
 
 3.  Use `<header>`, `<main>`, `<footer>`, `<aside>` to structure the html page.
 
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-boxmodel-modellingboxes/
+
 Created: 13.07.2020
