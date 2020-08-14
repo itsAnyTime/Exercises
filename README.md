@@ -115,12 +115,14 @@ started
 
 1. Add a 2 second animation for the div element, which changes the color from red to blue. Call the animation 
 
-2. Add the following 5 steps to the animation "example" (using 0%, 25%, 50%, 75%, and 100%):
-a.	0% - Set background color to "red", left position to "0px", top position to: "0px"
-b.	25% - Set background color to "blue", left position to "0px", top position to: "200px"
-c.	50% - Set background color to "green", left position to "200px", top position to: "200px"
-d.	75% - Set background color to "yellow", left position to "200px", top position to: "0px"
-e.	100% - Set background color to "red", left position to "0px", top position to: "0px"
+2. Specify that the transition of the <div> element should have a "ease-in-out" speed curve.
+Add the following 5 steps to the animation "example" (using 0%, 25%, 50%, 75%, and 100%): 
+    
+     a.	0% - Set background color to "red", left position to "0px", top position to: "0px"
+    b.	25% - Set background color to "blue", left position to "0px", top position to: "200px"
+    c.	50% - Set background color to "green", left position to "200px", top position to: "200px"
+    d.	75% - Set background color to "yellow", left position to "200px", top position to: "0px"
+    e.	100% - Set background color to "red", left position to "0px", top position to: "0px"
 
 3. Specify that the animation of the div element should have a "1" second delay before starting.
 
@@ -129,6 +131,28 @@ e.	100% - Set background color to "red", left position to "0px", top position to
 5. Specify that the animation of the div element should alternate between running forwards and backwards.
 
 6. Edit the code to make the divs' background color fade in and out infinitely when a user's mouse hovers over the respective element.
+
+7. Add a 2 second transition effect for background, and transform changes of the <div> element.HTML:
+<div></div>CSS:
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+}div:hover {
+  background: blue;
+  transform: rotate(180deg);
+}
+
+8. Using the transition shorthand property, specify width changes for the <div> element should have:
+"2" second duration, "ease-in-out" speed curve, and a "0.5" second delay before starting.HTML:
+<div></div>CSS:
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+}div:hover {
+  width: 300px;
+}
 
 Created: 23.07.2020
 

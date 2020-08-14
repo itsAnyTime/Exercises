@@ -6,6 +6,7 @@
     animation-name: example;
     animation-duration: 4s;
     animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
   }
 
   @keyframes example {
@@ -24,6 +25,7 @@
     position: relative;
     background-color: red;
     animation: example 4s infinite;
+    animation-timing-function: ease-in;
 } @keyframes example {
   0% {background-color: rgb(255, 0, 0);}
   25% {background-color: rgb(4, 0, 255);}
