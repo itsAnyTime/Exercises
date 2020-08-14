@@ -111,7 +111,7 @@ Created: 10.8.2020
 #### TASKS 1-6:
 ----------------
 
-started
+started. 1-5 check solutions, 6 started
 
 1. Add a 2 second animation for the div element, which changes the color from red to blue. Call the animation 
 
