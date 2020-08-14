@@ -116,6 +116,11 @@ started
 1. Add a 2 second animation for the div element, which changes the color from red to blue. Call the animation 
 
 2. Add the following 5 steps to the animation "example" (using 0%, 25%, 50%, 75%, and 100%):
+a.	0% - Set background color to "red", left position to "0px", top position to: "0px"
+b.	25% - Set background color to "blue", left position to "0px", top position to: "200px"
+c.	50% - Set background color to "green", left position to "200px", top position to: "200px"
+d.	75% - Set background color to "yellow", left position to "200px", top position to: "0px"
+e.	100% - Set background color to "red", left position to "0px", top position to: "0px"
 
 3. Specify that the animation of the div element should have a "1" second delay before starting.
 

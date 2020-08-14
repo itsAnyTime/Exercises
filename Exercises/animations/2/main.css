@@ -1,0 +1,33 @@
+/* div {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes example {
+    0% {background-color: rgb(255, 0, 0);}
+    25% {background-color: rgb(4, 0, 255);}
+    50% {background-color: rgb(7, 223, 0);}
+    75% {background-color: rgb(251, 255, 36);}
+    100% {background-color: rgb(255, 0, 0);}
+  } */
+
+
+ /* shorter solution: */
+ div { 
+   width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation: example 4s infinite;
+} @keyframes example {
+  0% {background-color: rgb(255, 0, 0);}
+  25% {background-color: rgb(4, 0, 255);}
+  50% {background-color: rgb(7, 223, 0);}
+  75% {background-color: rgb(251, 255, 36);}
+  100% {background-color: rgb(255, 0, 0);}
+}
