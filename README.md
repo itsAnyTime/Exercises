@@ -662,8 +662,6 @@ link target (_blank)<br>
 article<br>
 cursor
 
-Created: 6.7.2020
-
 <hr>
 
 ### Assignment pseudo_classes (assignment 06072020)
