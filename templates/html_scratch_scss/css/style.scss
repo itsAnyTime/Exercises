@@ -1,0 +1,60 @@
+/*
+
+* {
+    padding: 0; 
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+*/
+
+
+/* Syntax 
+------------
+
+
+.parent {
+    font : {
+      family: Roboto, sans-serif;
+      size: 12px;
+      decoration: none;
+    }
+  }
+  
+  wird zu:
+  
+  .parent {
+    font-family: Roboto, sans-serif;
+    font-size: 12px;
+    font-decoration: none;
+  }
+  
+  Verschachtelt:
+  ---------------
+  The following Sass:
+.notecard{ 
+  &:hover{
+      @include transform (rotatey(-180deg));  
+    }
+  }"	
+  
+  will compile to the following CSS:
+
+.notecard:hover {
+  transform: rotatey(-180deg);
+}
+
+  
+
+  Variablen:
+  ------------
+
+  $translucent-white: rgba(255,255,255,0.3);
+  
+  background-color: $translucent-white;
+ */
+
