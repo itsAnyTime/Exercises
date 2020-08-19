@@ -30,3 +30,5 @@ Let's customize the site!
 * change card border to primary color
 
 Note: have a look into the `node_modules/scss/bootstrap/_variables.scss` file to see what variables you need to target to set your custom values.
+
+Created: 19.08.2020 
