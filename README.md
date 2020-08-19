@@ -9,15 +9,14 @@
 * site header is sticky to the top 
 * add scroll to section - on click on the items in the menu, scroll to section
 
-![example-desktop](Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg)
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="48">
 
 ## Tablet
-
-![example-tablet](Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png)
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="48">
 
 ## Mobile
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="48">
 
-![example-mobile](Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png)
 
 ## Customize Bootstrap
 
