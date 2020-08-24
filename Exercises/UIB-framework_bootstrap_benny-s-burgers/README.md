@@ -32,3 +32,8 @@ Let's customize the site!
 Note: have a look into the `node_modules/scss/bootstrap/_variables.scss` file to see what variables you need to target to set your custom values.
 
 Created: 19.08.2020 
+
+Needed steps: 
+1. Clone
+2. npm install (node packages installieren)
+3. npm start (sass script)

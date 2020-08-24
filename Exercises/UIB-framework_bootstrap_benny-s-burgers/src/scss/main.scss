@@ -1,2 +1,101 @@
+// $white: rgb(123,67,252);
+
+/* change the standardcolor to my colors */
+$theme-colors:(
+  primary: rgb(123,67,252),
+  dark: #000,
+  gray: rgb(207, 207, 207),
+);
+
+/* instead of rounded-0 at button place */
+$enable-rounded: false;
+
+// kopieren von .... remove the :last variable to 
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+$font-family-base: 'Love Ya Like A Sister', cursive;
+
+/* ----- manipulated start ----------*/
+
+.jumbotron {
+    background-color: transparent !important;
+}
+
+/* button colors */
+.btn {
+    // background-color: $white !important;
+    color: white !important;
+}
+
+.text-white {
+    // color: rgb(102, 24, 204) !important;
+}
+
+.body {
+    // background-color: gray !important;
+}
+
+/* ------------end ----------- */
+* {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1063px;
+}
+
+
+
+header {
+    background: url(../../src/images/burger.jpg);
+    color: rgb(123,67,252);
+    height: 674px;
+    // background-size: contain;
+    // background-repeat: no-repeat;
+    background-position: center bottom;
+    // width: 100%;
+    // background-size: 100%;
+    // height: calc(40px + 15vw);
+ }
+
+ .container_1 {
+     background-color: black;
+ }
+
+.header_text {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+// nav {
+//     color: rgb(102, 24, 204);
+// }
+
+.container_white {
+    background-color: white;
+}
+
+.col-sm-4 img {
+    width: 30%;
+    
+    // border: 0.4px solid black;  
+    // border-radius: 50px; 
+    // background-color: rgba(240, 240, 240, 0.747); margin: 9px;
+    // padding: 9px;
+   
+}
+
+.extraspace {
+    height: 75px;
+}
+
+.card-body {
+    // width: 33%;
+    // background-image: cover;
+    // height: 100px;
+    // background-color: red !important;
+    height: auto;
+}
+
 // This is where you can import other stylesheets or write your scss code
 @import "../../node_modules/bootstrap/scss/bootstrap";
