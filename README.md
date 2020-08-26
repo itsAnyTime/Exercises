@@ -30,7 +30,7 @@ Create a mockup website as seen in the [reference image folder](Exercises/UIB-fr
 
 Created: 25.08.2020
 
-My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-bootstrap_benny-s-burgers/  (in progress)
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-variables-sassy/  (in progress)
 
 
 <hr>
