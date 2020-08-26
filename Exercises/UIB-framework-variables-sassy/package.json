@@ -6,17 +6,8 @@
   "author": "Fran",
   "homepage": "https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-variables-sassy/src/",
   "scripts": {
-    "start": "run-p watch watch:styles",
-    "build": "run-s clean clean:styles build:styles copy",
-    "predeploy": "npm run UIB-framework-variables-sassy",
-    "deploy": "gh-pages -d UIB-framework-variables-sassy",
-    "build:styles": "sass src/scss:src/styles",
-    "watch": "live-server src",
-    "watch:styles": "sass src/scss:src/styles --watch",
-    "clean": "rm -rf dist",
-    "clean:styles": "rm -rf src/styles",
-    "copy": "mkdir dist && rsync -avr --exclude=\"/scss\" src/ dist",
-    "publish": "gh-pages -d dist"
+    "predeploy": "npm run",
+    "deploy": "gh-pages -d"
   },
   "keywords": [],
   "license": "ISC",
