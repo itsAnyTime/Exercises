@@ -39,13 +39,13 @@ Created: 25.08.2020
 * site header is sticky to the top 
 * add scroll to section - on click on the items in the menu, scroll to section
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="50">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="250">
 
 ## Tablet
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="50">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="250">
 
 ## Mobile
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="50">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="250">
 
 
 ## Customize Bootstrap
@@ -76,11 +76,7 @@ Created: 19.08.2020
 
 * The input fields with the type of "text" should have a pink outline on focus. The input field with the type "email" and the text area should have a blue outline on focus. Make sure to select the inputs by type when styling for focus. 
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/form-focus1.png" width="100">
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/form-focus2.png" width="100">
-
-<!-- ![reference-focus1](Exercises/UIB-data-swagger/images/form-focus1.png)
-![reference-focus2](Exercises/UIB-data-swagger/images/form-focus2.png) -->
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/form-focus1.png" width="500"><img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/form-focus2.png" width="500">
 
 * The form should also have a checkbox which is styled as a toggle switch. 
 
