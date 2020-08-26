@@ -8,7 +8,8 @@
   "scripts": {
     "start": "run-p watch watch:styles",
     "build": "run-s clean clean:styles build:styles copy",
-    "deploy": "run-s build publish",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build:styles": "sass src/scss:src/styles",
     "watch": "live-server src",
     "watch:styles": "sass src/scss:src/styles --watch",
