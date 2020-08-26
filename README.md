@@ -1,6 +1,35 @@
 # Exercises - just for practise
 
-# Benny's burger
+
+# Sassy Website (uib framework variables)
+
+Create a mockup website as seen in the [reference image folder](./images_reference). 
+
+* Use sass to create the mockup. 
+* Make use of nesting and variables where possible.
+* Make sure to design for mobile first! 
+* Breakpoints:
+    - 768px - tablet 
+    - 1024px - desktop
+* Colors for styling: 
+    - Card background color: #e0ddb2
+    - Card and aside borders: #dad6ab
+    - Color used for nav and footer: #016690
+* Use the images in the [images folder](Exercises/UIB-framework-variables-sassy/src/images) for the header and cards.
+
+![mockup-image-mobile](Exercises/UIB-framework-variables-sassy/images_reference/mobile1.png)
+
+![mockup-image-mobile](Exercises/UIB-framework-variables-sassy/images_reference/mobile2.png)
+
+![mockup-image-tablet](Exercises/UIB-framework-variables-sassy/images_reference/tablet.png)
+
+![mockup-image-desktop](Exercises/UIB-framework-variables-sassy/images_reference/desktop.png)
+
+Created: 25.08.2020
+
+<hr>
+
+# Benny's burger (UIB framework bootstrap bennys burgers)
 
 > Let's use Bootstrap to create a restaurant page!
 
