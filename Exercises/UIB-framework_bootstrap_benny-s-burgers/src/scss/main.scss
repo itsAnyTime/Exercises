@@ -4,7 +4,7 @@
 $theme-colors:(
   primary: rgb(123,67,252),
   dark: #000,
-  gray: rgb(207, 207, 207),
+//   gray: rgb(207, 207, 207),
 );
 
 /* instead of rounded-0 at button place */
@@ -23,7 +23,7 @@ $font-family-base: 'Love Ya Like A Sister', cursive;
 /* button colors */
 .btn {
     // background-color: $white !important;
-    color: white !important;
+    // color: rgb(123,67,252);
 }
 
 .text-white {
@@ -38,7 +38,7 @@ $font-family-base: 'Love Ya Like A Sister', cursive;
 * {
     margin: 0 auto;
     padding: 0;
-    max-width: 1063px;
+    max-width: 1500px;
 }
 
 
@@ -59,9 +59,7 @@ header {
      background-color: black;
  }
 
-.header_text {
-    color: white;
-}
+
 
 h1 {
     text-align: center;
@@ -75,27 +73,52 @@ h1 {
     background-color: white;
 }
 
-.col-sm-4 img {
-    width: 30%;
-    
-    // border: 0.4px solid black;  
-    // border-radius: 50px; 
-    // background-color: rgba(240, 240, 240, 0.747); margin: 9px;
-    // padding: 9px;
-   
+.container_purple {
+    background-color: rgb(123,67,252);
+}
+
+.icon {
+    width: 5.3rem;
+    height: 5.3rem;
+
+    & img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
 }
 
 .extraspace {
     height: 75px;
 }
 
+.card {
+    background-color: yellow;
+    // min-width: 124px;
+}
+
+
+.card img {
+    // min-width: 124px;
+}
+
+.card-deck {
+    // background-color: green;
+    // min-width: 124px;
+}
+
 .card-body {
+    // min-width: 124px;
     // width: 33%;
     // background-image: cover;
     // height: 100px;
-    // background-color: red !important;
-    height: auto;
+    // background-color: aqua !important;
+    // height: auto;
 }
+
+// .border-3 {  not working, dont know why
+//     border-width: 2px !important;
+// }
 
 // This is where you can import other stylesheets or write your scss code
 @import "../../node_modules/bootstrap/scss/bootstrap";
