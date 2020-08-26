@@ -3,7 +3,7 @@
 
 # Sassy Website (uib framework variables)
 
-Create a mockup website as seen in the [reference image folder](./images_reference). 
+Create a mockup website as seen in the [reference image folder](Exercises/UIB-framework-variables-sassy/images_reference). 
 
 * Use sass to create the mockup. 
 * Make use of nesting and variables where possible.
@@ -17,13 +17,14 @@ Create a mockup website as seen in the [reference image folder](./images_referen
     - Color used for nav and footer: #016690
 * Use the images in the [images folder](Exercises/UIB-framework-variables-sassy/src/images) for the header and cards.
 
-![mockup-image-mobile](Exercises/UIB-framework-variables-sassy/images_reference/mobile1.png)
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/mobile1.png" width="50">
 
-![mockup-image-mobile](Exercises/UIB-framework-variables-sassy/images_reference/mobile2.png)
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/mobile2.png" width="50">
 
-![mockup-image-tablet](Exercises/UIB-framework-variables-sassy/images_reference/tablet.png)
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/tablet.png" width="50">
 
-![mockup-image-desktop](Exercises/UIB-framework-variables-sassy/images_reference/desktop.png)
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/desktop.png" width="50">
+
 
 Created: 25.08.2020
 
@@ -38,13 +39,13 @@ Created: 25.08.2020
 * site header is sticky to the top 
 * add scroll to section - on click on the items in the menu, scroll to section
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="48">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="50">
 
 ## Tablet
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="48">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="50">
 
 ## Mobile
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="48">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="50">
 
 
 ## Customize Bootstrap
@@ -75,14 +76,17 @@ Created: 19.08.2020
 
 * The input fields with the type of "text" should have a pink outline on focus. The input field with the type "email" and the text area should have a blue outline on focus. Make sure to select the inputs by type when styling for focus. 
 
-![reference-focus1](Exercises/UIB-data-swagger/images/form-focus1.png)
-![reference-focus2](Exercises/UIB-data-swagger/images/form-focus2.png)
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/form-focus1.png" width="100">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/form-focus2.png" width="100">
+
+<!-- ![reference-focus1](Exercises/UIB-data-swagger/images/form-focus1.png)
+![reference-focus2](Exercises/UIB-data-swagger/images/form-focus2.png) -->
 
 * The form should also have a checkbox which is styled as a toggle switch. 
 
 * At the end of the form, there should be an input for submit. This input field should be disabled.
 
-![reference](/images/form-reference.png)
+![reference](Exercises/UIB-data-swagger/images/form-reference.png)
 ![reference-form-filled](Exercises/UIB-data-swagger/images/form-filled.png)
 
 **Rules**
