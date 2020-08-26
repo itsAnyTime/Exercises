@@ -30,7 +30,7 @@ Create a mockup website as seen in the [reference image folder](Exercises/UIB-fr
 
 Created: 25.08.2020
 
-My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-variables-sassy/  (in progress)
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-variables-sassy/src/  (in progress)
 
 
 <hr>
@@ -71,6 +71,8 @@ Let's customize the site!
 Note: have a look into the `node_modules/scss/bootstrap/_variables.scss` file to see what variables you need to target to set your custom values.
 
 Created: 19.08.2020 
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-bootstrap_benny-s-burgers/src/  (in progress)
 
 <hr>
 
