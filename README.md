@@ -3,7 +3,7 @@
 
 # Sassy Website (uib framework variables)
 
-NOT started
+NOT finish
 
 Create a mockup website as seen in the [reference image folder](Exercises/UIB-framework-variables-sassy/images_reference). 
 
@@ -29,6 +29,9 @@ Create a mockup website as seen in the [reference image folder](Exercises/UIB-fr
 
 
 Created: 25.08.2020
+
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-bootstrap_benny-s-burgers/  (in progress)
+
 
 <hr>
 
