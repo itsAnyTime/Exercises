@@ -1,9 +1,10 @@
 {
-  "name": "",
+  "name": "burger",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "author": "",
+  "homepage": "https://itsanytime.github.io/DCI_Exercises/",
   "scripts": {
     "@comment build": "removed: deploy: run-s build publish.",
     "deploy": "gh-pages -d src",
