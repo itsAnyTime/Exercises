@@ -1,2 +1,61 @@
+// - Card background color: #e0ddb2
+$primary: #e0ddb2;
+// - Card and aside borders: #dad6ab
+$secondary: #dad6ab;
+// - Color used for nav and footer: #016690
+$info: #016690;
+
+
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 1.2rem !important;
+    // width: 768px;
+  }
+
+  h1 {
+    color: purple;
+    
+}
+
+.image {
+    background: url(../../src/images/header.jpg);
+    background-color: yellow;
+    background-size: cover;
+    background-repeat: none;
+    height: 40vh;
+}
+
+
+/* over 768 is tablet: */
+    @media (min-width: 768px) {
+        h1 {
+            color: green;
+            
+        }
+
+        html {
+            font-size: 1.4rem !important;
+        }
+
+      }
+
+      /* over 1024 is desktop */
+    @media (min-width: 1024px) {
+        h1 {
+            color: orange;
+        }
+        html {
+            font-size: 1.6rem !important;
+        }
+
+
+      }
+
+
 // This is where you can import other stylesheets or write your scss code
 @import "../../node_modules/bootstrap/scss/bootstrap";
