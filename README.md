@@ -37,7 +37,8 @@ My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-va
 
 NOT finish
 
-# Benny's burger (UIB framework bootstrap bennys burgers)
+# Benny's burger 
+(UIB framework bootstrap bennys burgers)
 
 > Let's use Bootstrap to create a restaurant page!
 
@@ -73,7 +74,8 @@ Created: 19.08.2020
 
 <hr>
 
-# Swagger (uib-data-swagger)
+# Swagger 
+(uib-data-swagger)
 
 NOT started
 
@@ -104,7 +106,8 @@ Created: 17.08.2020
 
 <hr>
 
-# Strapping (bootstrap)
+# Strapping 
+(bootstrap)
 
 * Create a simple page using bootstrap!
 Use the mockup image as a guide.
@@ -124,7 +127,8 @@ Created: 12.08.2020
 
 # Basic Data Exercises
 
-## Styling Forms (UIB-data-stylingforms)
+## Styling Forms 
+(UIB-data-stylingforms)
 
 1.  Create a basic HTML page with all important elements.
 2.  Look at the mockup image. Create a form and style it like the mockup.
@@ -186,7 +190,8 @@ Created: 10.8.2020
 
 started
 
-## Sports Grid (UIB-layout-grid-parent)
+## Sports Grid 
+(UIB-layout-grid-parent)
 
 **Instructions**: 
 * Nest all the sports images from the [assets folder](/Exercises/UIB-layout-grid-parent/assets) into the main element with the class `container`. 
@@ -209,7 +214,8 @@ Created: 10.8.2020
 
 ## Basic Interaction Exercises
 
-### CSS Animation tasks (animations)
+### CSS Animation tasks 
+(animations)
 
 started. 1-5 check solutions, 6 started
 
@@ -258,7 +264,8 @@ Created: 23.07.2020
 
 <hr>
 
-### Do have some fun with Pseudo Elements (pseudo elements)
+### Do have some fun with Pseudo Elements 
+(pseudo elements)
 
 NOT started
 
@@ -277,7 +284,8 @@ Created: 23.07.2020
 
 ## Basic_CSS_Exercises
 
-### I'm so fancy (fancy-shapes)
+### I'm so fancy 
+(fancy-shapes)
 
 Redo
 
@@ -301,7 +309,8 @@ Created: 22.7.2020
 
 <hr>
 
-### 7 Boxes (UIB layout flexseven)
+### 7 Boxes 
+(UIB layout flexseven)
 
 1. Refresh your Flexbox skills with this fun game [flexboxfroggy](http://flexboxfroggy.com)
 
@@ -336,7 +345,8 @@ Created: 21.7.2020
 
 <hr>
 
-### Breaking the flow (UIB layout break out the flow)
+### Breaking the flow 
+(UIB layout break out the flow)
 
 1. Create an empty box with the class of `halloworld`. The box should have a width and height of 200px. Inside the box, add the text "Hallo World" and change the background color to orange.
 
@@ -373,7 +383,8 @@ Created: 20.07.2020
 
 NOT finished
 
-### Movie Genres (UIB layout out of ordinary)
+### Movie Genres 
+(UIB layout out of ordinary)
 
 1.  Create a section with the class `genres`. Make it a flex-container.
 2.  Inside the flex-container, create 6 sections with the following content and background-colors. They should be created in the following order:
@@ -395,7 +406,8 @@ Created: 20.07.2020
 
 <hr>
 
-### Layout Planning  (without computer)
+### Layout Planning  
+(without computer)
 
 * Create a **rough** pen and paper layout for mobile, tablet and desktop for the same site. 
 
@@ -410,7 +422,8 @@ Created: 20.07.2020
 
 <hr>
 
-### Let's make a webpage! (berlin)
+### Let's make a webpage! 
+(berlin)
 
 NOT 100% ready
 
@@ -439,7 +452,8 @@ Created: 16.07.2020
 
 <hr>
 
-### Flex (UIB layout flex)
+### Flex 
+(UIB layout flex)
 
 * 01: Use flexbox to align all divs in a row. Use wrap so that the divs appear on multiple rows. Center the rows in the container
 * 02: Use flexbox to align the divs in a row. Reverse the order of the divs.
@@ -462,7 +476,8 @@ Created: 14.07.2020
 
 <hr>
 
-### What's your background? (UIB boxmodel backgroundimages)
+### What's your background? 
+(UIB boxmodel backgroundimages)
 
 **Note**: The task starting files can be found in the corresponding folder names. Each task folder contains the necessary assets.
 
@@ -489,7 +504,8 @@ Created: 14.07.2020
 <hr>
 
 
-### Design Mockup (piano page)
+### Design Mockup 
+(piano page)
 
 Use the given images, create a page that looks like the design-mockup:
 
@@ -503,7 +519,8 @@ Created: 14.07.2020
 
 NOT Finished 
 
-### They see me scrolling (UIB boxmodel flow)
+### They see me scrolling 
+(UIB boxmodel flow)
 
 **Task 1**
 * The sections with the class `esports-info` need to be styled. 
@@ -526,7 +543,8 @@ Created: 13.07.2020
 
 <hr>
 
-### Model the Boxes (UIB boxmodel modellingboxes)
+### Model the Boxes 
+(UIB boxmodel modellingboxes)
 
 1. Create `html` and `css` files. Work from there.
 
@@ -543,7 +561,8 @@ Created: 13.07.2020
 
 <hr>
 
-### Contain Yourself (UIB boxmodel containing)
+### Contain Yourself 
+(UIB boxmodel containing)
 
 * Style the header so that is takes up 100% of the viewport height. 
 * Add the `container.jpg` image from the [images folder](/Exercises/UIB-boxmodel-containing/images/) to the `img` tag found in the header.
@@ -560,7 +579,8 @@ Created: 13.07.2020
 
 <hr>
 
-### Block vs. Inline: (same folder name)
+### Block vs. Inline: 
+(same folder name)
 
     Create an index.html file with 3 paragraphs, each containing the words “This is a paragraph”.
     Draw a border around each element.
@@ -586,7 +606,8 @@ Created: 13.07.2020
 
 ### Language Placeholder
 
-#### directions (same folder name)
+#### directions 
+(same folder name)
 
 -   Center all headings.
 -   Justify all paragraph elements.
@@ -617,7 +638,8 @@ Created: 9.7.2020
 
 <hr>
 
-### Shopping List (style_text2)
+### Shopping List 
+(style_text2)
 
 -   Choose a font on google fonts. Select different font weights e.g. light, regular, bold. Apply the font to all the elements on the page.
 -   Create a stylesheet and work from there.
@@ -637,7 +659,8 @@ Created: 9.7.2020
 
 ## Basic Typography Exercises
 
-### Exercise: Text styling and formatting (stylish_text)
+### Exercise: Text styling and formatting 
+(stylish_text)
 
 -   Change the `body`'s font color and font family. Use a fallback system.
 -   Change the headings' font family, use a fallback system and make them bold.
@@ -662,7 +685,8 @@ Created: 9.7.2020
 
 <hr>
 
-### Make your fonts awesome! (fontawesome)
+### Make your fonts awesome! 
+(fontawesome)
 
 -   Link font awesome to your html page.
 -   Add a font awesome icon to the front and back of the h1 heading.
@@ -682,7 +706,8 @@ created: 9.7.2020
 
 <hr>
 
-### Exercise: CSS Selectors 1 (same folder name)
+### Exercise: CSS Selectors 1 
+(same folder name)
 
 1. Select all h3 elements and change the elements' color to blue.
 2. Select list items 3-5 in task 2 using classes. Change the elements' color to red.
@@ -698,7 +723,8 @@ Created: 7.7.2020
 
 <hr>
 
-### Descendant Selectors (same folder name)
+### Descendant Selectors 
+(same folder name)
 
 1. Modify the given page to make it look like the mockup.
 
@@ -719,7 +745,8 @@ div:nth-child(even)
 
 <hr>
 
-### CSS Pseudo Classes (same folder name)
+### CSS Pseudo Classes 
+(same folder name)
 
 1.  Create an empty HTML page with charset, title, etc.
 2.  Add buttons for 3 search engines of your choice, using different colors.
@@ -767,7 +794,8 @@ cursor
 
 <hr>
 
-### Assignment pseudo_classes (assignment 06072020)
+### Assignment pseudo_classes 
+(assignment 06072020)
 
     1. all paragraphs with a class of “dull” 
     2. all elements that have both a “todo” class and an “urgent” class
@@ -788,7 +816,8 @@ Created: 6.7.2020
 
 <hr>
 
-### table of contents (same folder name)
+### table of contents 
+(same folder name)
 
 1. Add a unique id to each heading tag in the page, make the id as descriptive as possible.
 
