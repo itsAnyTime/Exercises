@@ -6,7 +6,7 @@
   "author": "Fran",
   "homepage": "https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-variables-sassy/src/",
   "scripts": {
-    "deploy": "master -d src"
+    "deploy": "gh-pages -d src"
   },
   "keywords": [],
   "license": "ISC",
