@@ -8,8 +8,8 @@
   "scripts": {
     "start": "run-p watch watch:styles",
     "build": "run-s clean clean:styles build:styles copy",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run UIB-framework-variables-sassy",
+    "deploy": "gh-pages -d UIB-framework-variables-sassy",
     "build:styles": "sass src/scss:src/styles",
     "watch": "live-server src",
     "watch:styles": "sass src/scss:src/styles --watch",
