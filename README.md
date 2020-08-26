@@ -72,7 +72,7 @@ Note: have a look into the `node_modules/scss/bootstrap/_variables.scss` file to
 
 Created: 19.08.2020 
 
-My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-bootstrap_benny-s-burgers/src/  (in progress)
+My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework_bootstrap_benny-s-burgers/src/  (in progress)
 
 <hr>
 
