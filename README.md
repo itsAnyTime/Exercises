@@ -17,13 +17,13 @@ Create a mockup website as seen in the [reference image folder](Exercises/UIB-fr
     - Color used for nav and footer: #016690
 * Use the images in the [images folder](Exercises/UIB-framework-variables-sassy/src/images) for the header and cards.
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/mobile1.png" width="50">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/mobile1.png" width="250">
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/mobile2.png" width="50">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/mobile2.png" width="250">
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/tablet.png" width="50">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/tablet.png" width="250">
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/desktop.png" width="50">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework-variables-sassy/images_reference/desktop.png" width="250">
 
 
 Created: 25.08.2020
@@ -39,13 +39,13 @@ Created: 25.08.2020
 * site header is sticky to the top 
 * add scroll to section - on click on the items in the menu, scroll to section
 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="500">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="250">
 
 ## Tablet
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="500">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="250">
 
 ## Mobile
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="500">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="250">
 
 
 ## Customize Bootstrap
@@ -88,7 +88,7 @@ Created: 19.08.2020
 
 **Rules**
 * The form should be responsive. 
-<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/mobile.png" width="500">
+<img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-data-swagger/images/mobile.png" width="250">
 
 Created: 17.08.2020
 
