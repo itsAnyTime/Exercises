@@ -3,6 +3,8 @@
 
 # Sassy Website (uib framework variables)
 
+NOT started
+
 Create a mockup website as seen in the [reference image folder](Exercises/UIB-framework-variables-sassy/images_reference). 
 
 * Use sass to create the mockup. 
@@ -29,6 +31,8 @@ Create a mockup website as seen in the [reference image folder](Exercises/UIB-fr
 Created: 25.08.2020
 
 <hr>
+
+NOT finish
 
 # Benny's burger (UIB framework bootstrap bennys burgers)
 
@@ -67,6 +71,8 @@ Created: 19.08.2020
 <hr>
 
 # Swagger (uib-data-swagger)
+
+NOT started
 
 * Create a form as shown in the reference images below. The form should have four fields total:
     * First name
