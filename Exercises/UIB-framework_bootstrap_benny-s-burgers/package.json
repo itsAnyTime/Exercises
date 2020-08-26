@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "author": "",
-  "homepage": "https://itsanytime.github.io/DCI_Exercises/",
+  "homepage": "https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework_bootstrap_benny-s-burgers/src/",
   "scripts": {
     "@comment build": "removed: deploy: run-s build publish.",
     "deploy": "gh-pages -d src",
