@@ -1,61 +1,52 @@
-// - Card background color: #e0ddb2
+// - Card background color:
 $primary: #e0ddb2;
-// - Card and aside borders: #dad6ab
+// - Card and aside borders:
 $secondary: #dad6ab;
-// - Color used for nav and footer: #016690
+// - Color used for nav and footer: 
 $info: #016690;
 
 
 * {
     margin: 0; 
     padding: 0;
-    box-sizing: border-box;
+}
+
+.hero {
+    background: url(../images/header.jpg);    background-size: cover;
+    height: 40vh;
 }
 
 html {
     font-size: 1.2rem !important;
-    // width: 768px;
-  }
-
-  h1 {
-    color: purple;
-    
 }
 
-.image {
-    background: url(../../src/images/header.jpg);
-    background-color: yellow;
-    background-size: cover;
-    background-repeat: none;
-    height: 40vh;
+  .nav {
+      font-size: 2rem;
 }
 
+/* MEDIA QUERIES  */
 
 /* over 768 is tablet: */
-    @media (min-width: 768px) {
-        h1 {
-            color: green;
-            
-        }
+@media (min-width: 768px) {
+    html {
+        font-size: 1.4rem !important;
+    }
 
-        html {
-            font-size: 1.4rem !important;
-        }
+    .nav {
+        font-size: 1.4rem;
+    }
 
-      }
+    }
 
-      /* over 1024 is desktop */
-    @media (min-width: 1024px) {
-        h1 {
-            color: orange;
-        }
-        html {
-            font-size: 1.6rem !important;
-        }
+    /* over 1024 is desktop */
+@media (min-width: 1024px) {
+    html {
+        font-size: 1.6rem !important;
+    }
+    .nav {
+        font-size: 1.4rem;
+    }
 
+    }
 
-      }
-
-
-// This is where you can import other stylesheets or write your scss code
 @import "../../node_modules/bootstrap/scss/bootstrap";
