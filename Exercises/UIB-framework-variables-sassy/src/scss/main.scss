@@ -18,13 +18,24 @@ $info: #016690;
 
 html {
     font-size: 1.2rem !important;
+    min-width: 315px !important;
+
 }
 
   .nav {
       font-size: 2rem;
 }
 
+
 /* MEDIA QUERIES  */
+
+/* change breakpoints to task values */
+$grid-breakpoints: (
+  xs: 0,
+  sm: 768px,
+  md: 1024px
+
+);
 
 /* over 768 is tablet: */
 @media (min-width: 768px) {
@@ -36,7 +47,7 @@ html {
         font-size: 1.4rem;
     }
 
-    }
+}
 
     /* over 1024 is desktop */
 @media (min-width: 1024px) {
