@@ -2,6 +2,8 @@
 
 ## Color Guide 
 
+NOT started
+
 Create a color guide in sass!
 
 **Instructions**:
