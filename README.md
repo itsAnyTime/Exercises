@@ -1,10 +1,41 @@
 # Exercises - just for practise
 
+## Color Guide 
 
-# Sassy Website 
+Create a color guide in sass!
+
+**Instructions**:
+* Look at the mockup image for a guide.
+* Nest selectors where possible.
+* Use variables so that you can update and change the main colors easily.
+* Use mixins where possible.
+* Give detail about the colors used eg. Hex color code and RGB color code on the page.
+* The page must be responsive.
+* You should have a guide of at least four colors.
+* Use darken and lighten on your color guide.
+ 
+![mock-image-mobile](/Exercises/UIB-framework-colorguide/reference-images/reference-image-mobile.png)
+
+![mock-image-desktop](/Exercises/UIB-framework-colorguide/reference-images/reference-image-desktop.png)
+
+
+### Bonus:
+
+#### Refactoring Assignment
+
+Put all your sass variables in a _variables.scss file, your mixins in a _mixins.scss, and the rest in a _layout.scss, so that your main.scss contains only @import statements.  Your scss directory should have the structure shown on the attached screenshot.
+
+![mock-image-desktop](/Exercises/UIB-framework-colorguide/reference-images/bonus.png)
+
+Created: 01.09.2020
+
+
+<hr>
+
+## Sassy Website 
 (uib-framework-variables-sassy)
 
-NOT finish
+NOT finish: Images not good, rest ok
 
 Create a mockup website as seen in the [reference image folder](Exercises/UIB-framework-variables-sassy/images_reference). 
 
@@ -38,26 +69,26 @@ My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework-va
 
 NOT finish
 
-# Benny's burger 
+## Benny's burger 
 (UIB framework bootstrap bennys burgers)
 
 > Let's use Bootstrap to create a restaurant page!
 
-## Desktop:
+### Desktop:
 
 * site header is sticky to the top 
 * add scroll to section - on click on the items in the menu, scroll to section
 
 <img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-desktop.jpg" width="250">
 
-## Tablet
+### Tablet
 <img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-tablet.png" width="250">
 
-## Mobile
+### Mobile
 <img src="https://raw.githubusercontent.com/itsAnyTime/DCI_Exercises/master/Exercises/UIB-framework_bootstrap_benny-s-burgers/exercise/example-mobile.png" width="250">
 
 
-## Customize Bootstrap
+#### Customize Bootstrap
 
 Let's customize the site!
 
@@ -77,7 +108,7 @@ My result: https://itsanytime.github.io/DCI_Exercises/Exercises/UIB-framework_bo
 
 <hr>
 
-# Swagger 
+## Swagger 
 (uib-data-swagger)
 
 NOT started
@@ -109,7 +140,7 @@ Created: 17.08.2020
 
 <hr>
 
-# Strapping 
+## Strapping 
 (bootstrap)
 
 * Create a simple page using bootstrap!
