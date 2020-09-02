@@ -26,6 +26,15 @@ html {
       font-size: 2rem;
 }
 
+.cut {
+    overflow: hidden;
+}
+
+.card img {
+    height: 368px;
+    width: 550px;
+    background-position: center;
+}
 
 /* MEDIA QUERIES  */
 
@@ -34,7 +43,6 @@ $grid-breakpoints: (
   xs: 0,
   sm: 768px,
   md: 1024px
-
 );
 
 /* over 768 is tablet: */
@@ -57,6 +65,10 @@ $grid-breakpoints: (
     .nav {
         font-size: 1.4rem;
     }
+
+    .img {
+        width: 40%;
+      }
 
     }
 
