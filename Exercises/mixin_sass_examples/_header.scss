@@ -1,0 +1,51 @@
+
+/* case without parameter */
+@mixin flexCenter {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* case with parameters */
+@mixin flexCenter($direction) {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    flex-direction: $direction;
+}
+
+/* case with 2 parameters */
+@mixin flexCenter($direction, $background) {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+    background-color: $background;
+}
+
+ 
+header {
+    /* case without parameter */
+    background-color: skyblue;
+    @include flexCenter();
+
+    /* case with parameter */
+    @include flexCenter(column);
+
+    /* case with 2 parameters */
+    @include flexCenter(column, red);
+
+
+        button {
+            background-color: $primyriBtn;
+            color: $textColor;
+            &:hover{
+                background-color: yellow;
+            }
+        }
+}
+

@@ -1,12 +1,21 @@
 # Exercises - just for practise
 
+# Mixins Exercise
+(mixin_sass_examples)
+
+See Readme for Instructions ![Readme](/Exercises/mixin_sass_examples/README.md)
+
+Created: 02.09.2020
+
+<hr>
+
 ## Color Guide 
+(UIB-framework-colorguide)
 
 NOT started
 
 Create a color guide in sass!
 
-**Instructions**:
 * Look at the mockup image for a guide.
 * Nest selectors where possible.
 * Use variables so that you can update and change the main colors easily.
@@ -37,7 +46,7 @@ Created: 01.09.2020
 ## Sassy Website 
 (uib-framework-variables-sassy)
 
-NOT finish: Images not good, rest ok
+Almost finish: Images not good, rest ok
 
 Create a mockup website as seen in the [reference image folder](Exercises/UIB-framework-variables-sassy/images_reference). 
 
@@ -229,7 +238,6 @@ started
 ## Sports Grid 
 (UIB-layout-grid-parent)
 
-**Instructions**: 
 * Nest all the sports images from the [assets folder](/Exercises/UIB-layout-grid-parent/assets) into the main element with the class `container`. 
 
 * Make the main element a class container that three columns of equal size, taking up all available space.

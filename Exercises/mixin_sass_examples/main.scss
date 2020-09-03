@@ -1,0 +1,19 @@
+@import "header";
+@import "variables";
+
+
+/* case without parameter */
+// .contact {
+//     @include flexCenter();
+// }
+
+/* case with parameter */
+// .contact {
+//     @include flexCenter(row);
+// }
+
+/* case with 2 parameters */
+
+.contact {
+    @include flexCenter(row, yellow);
+}
