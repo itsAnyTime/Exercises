@@ -1,7 +1,63 @@
 # Exercises - just for practise
 
+
+# Each-Loop Challenge:
+
+    1. Create a page with 7 block-level elements, one for each day of the week. 
+
+    2. Use a Sass map to specify a unique color for each day of the week.
+
+    3. Use an @each-loop to assign each element its appropriate color (i.e., the element “Monday” gets the Monday-color, the Tuesday-element gets the Tuesday-color, and so on).
+
+Created: 07.09.2020
+
+<hr>
+
+# Sass Loops
+(templates/sass_loop_for_each_while)
+
+## While, for and each in SASS
+
+### Task 1:
+rewrite this for loop into a while loop: 
+
+    // @for $var from 1 to 11 {
+    //     .size-#{$var} {
+    //         font-size: 10px * $var;
+    //     }
+    // }
+
+### Task 2:
+rewrite this while loop into a for loop:
+
+    // @while $count < 4 {
+    //     .size#{$count} {
+    //         font-size: $font-size * $count;
+    //     }
+    //     $count: $count + 1;
+    // }
+
+Created: 07.09.2020
+
+<hr>
+
+
+Sass Helpers
+(same name)
+
+* Create `_mixins.scss` and `main.scss` files
+* Import `_mixins.scss` into `main.scss` file
+
+For more, see: 
+
+Readme for Instructions ![Readme](/Exercises/sass_helpers/README.md)
+
+Created: 02.09.2020
+
+<hr>
+
 # Mixins Exercise
-(mixin_sass_examples)
+(sass_mixin_examples)
 
 See Readme for Instructions ![Readme](/Exercises/mixin_sass_examples/README.md)
 

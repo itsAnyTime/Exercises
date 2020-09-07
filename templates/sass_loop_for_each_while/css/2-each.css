@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .container .colors {
+    padding: 20px; }
+  .container h1 {
+    color: black;
+    padding: 20px; }
+
+.color1 {
+  background-color: yellow; }
+
+.color2 {
+  background-color: green; }
+
+.color3 {
+  background-color: blue; }
+
+.color4 {
+  background-color: brown; }
+
+/*# sourceMappingURL=2-each.css.map */

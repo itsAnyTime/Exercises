@@ -1,1 +1,48 @@
 // This is where you can import other stylesheets or write your scss code
+
+/* task 1 reset list */
+@import "mixins";
+
+ul {
+    @include reset-list;
+}
+
+/* task 2 center */ 
+.page--center {
+    @include center;
+}
+
+/* task 3 hide */ 
+.hidden {
+    @include hide;
+}
+
+/* task 4 hide */ 
+.triangle-example {
+    &::before, &::after {
+        display: block;
+        content: 'Du!';
+    }
+   
+    &::before {
+        @include triangle(down, green);
+        content: 'Hi!';
+    }
+
+    &::after {
+        @include triangle(up, yellow);
+    }
+
+    &::after {
+        @include triangle(down, red);
+    }
+
+}
+
+
+/* task 5 animation */  
+.reveal-animation-example {
+    // @include fade-in;
+}
+
+/* task 6 font-sizing */

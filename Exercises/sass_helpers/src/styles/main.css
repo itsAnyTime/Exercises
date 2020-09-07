@@ -1,0 +1,45 @@
+/* task 1 reset list */
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* task 2 center */
+.page--center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* task 3 hide */
+.hidden {
+  visibility: hidden;
+}
+
+/* task 4 hide */
+.triangle-example::before, .triangle-example::after {
+  display: block;
+  content: "Du!";
+}
+.triangle-example::before {
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 50px solid green;
+  content: "Hi!";
+}
+.triangle-example::after {
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 50px solid yellow;
+}
+.triangle-example::after {
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 50px solid red;
+}
+
+/* task 5 animation */
+/* task 6 font-sizing */
+
+/*# sourceMappingURL=main.css.map */

@@ -7,7 +7,7 @@
 
 ## 1. Reset list mixin
 
-Let's create a mixin that resets a list (ordered or unordered) - no padding, no margin and no list style. I should be able to use like this:
+Let's create a mixin that resets a list (ordered or unordered) - no padding, no margin and no list style. It should be able to use like this:
 
 ```scss
     ul {
@@ -26,7 +26,7 @@ Let's create a mixin that centers vertically and horizontally contents. Feel fre
 ## 3. Hide element
 
 Create a mixin to hide elements.
-I should be able to use it like this, for example:
+It should be able to use it like this, for example:
 
 ```scss
     .hide {
@@ -37,7 +37,7 @@ I should be able to use it like this, for example:
 ### 4. Triangle
 
 Let's create a mixin what creates a triangle with only css!
-I should be able to use it like so:
+It should be able to use it like so:
 
 ```scss
 .triangle {
@@ -57,7 +57,7 @@ There should be a default color (`#000`), but I could also pass one:
 
 Create a mixin that when included adds a fade in animation
 that makes the element appear and scale. Animation should keep going forever, alternating its direction.
-I should be able to use the mixing like so:
+It should be able to use the mixing like so:
 
 ```scss
     .box {
@@ -96,4 +96,4 @@ First, we need to define a list of available font sizes, for example:
 
 Can you also make the mixin throw an error when you pass a size that does not exist?
 
-
+Created: 02.09.2020
