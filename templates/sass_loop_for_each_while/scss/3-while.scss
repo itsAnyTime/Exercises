@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+    $count: 1;
+    $font-size: 16px;
+
+    // while $count < 4, give class size-$count a font-size of $font-size * $count
+
+    // @while $count < 4 {
+    //     .size#{$count} {
+    //         font-size: $font-size * $count;
+    //     }
+    //     $count: $count + 1;
+    // }
+
+    // Task 1: comment out the while loop, should be a for loop now.
+
+    // working example
+    // @for $var from 1 to 11 {
+    //     .size-#{$var} {
+    //         font-size: 10px * $var;
+    //     }
+    // }
+
+    // my solution - working (with lines 9-10)
+    @for $count from 1 to 4 {
+        .size#{$count} {
+            font-size: $font-size * $count;
+        }
+    }

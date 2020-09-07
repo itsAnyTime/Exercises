@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .days {
+        padding: 100px;
+    }
+    div {
+        color: white;
+        padding: 20px;
+        width: 200px;
+        text-align: center;
+    }
+}
+
+
+// 2. Use a Sass map to specify a unique color for each day of the week. 
+
+$days: (
+    "day-1": rgb(143, 168, 31),
+    "day-2": green,
+    "day-3": blue,
+    "day-4": brown,
+    "day-5": purple,
+    "day-6": orange,
+    "day-7": aqua
+);
+
+
+
+// 3. Use an @each-loop to assign each element its appropriate color (i.e., the element “Monday” gets the Monday-color, the Tuesday-element gets the Tuesday-color, and so on).
+
+// for each key-value pair in $days, give class $key a background-color of $value
+
+// each key-value pair in colors
+@each $key, $value in $days {
+    .#{$key} {
+        background-color: $value;
+    }
+}
+
+
+
+// sass --watch scss:css

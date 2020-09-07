@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .colors {
+        padding: 20px;
+    }
+    h1 {
+        color: black;
+        padding: 20px;
+    }
+}
+
+$colors: (
+    "color1": yellow,
+    "color2": green,
+    "color3": blue,
+    "color4": brown
+);
+// for each key-value pair in $colors, give class $key a background-color of $value
+
+// each key-value pair in colors
+@each $key, $value in $colors {
+    .#{$key} {
+        background-color: $value;
+    }
+}
+
+
+
+// sass --watch scss:css
