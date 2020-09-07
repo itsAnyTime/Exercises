@@ -1,0 +1,38 @@
+body {
+  background-color: black; }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .container .days {
+    padding: 100px; }
+  .container div {
+    color: white;
+    padding: 20px;
+    width: 200px;
+    text-align: center; }
+
+.day-1 {
+  background-color: yellow; }
+
+.day-2 {
+  background-color: green; }
+
+.day-3 {
+  background-color: blue; }
+
+.day-4 {
+  background-color: brown; }
+
+.day-5 {
+  background-color: purple; }
+
+.day-6 {
+  background-color: orange; }
+
+.day-7 {
+  background-color: aqua; }
+
+/*# sourceMappingURL=style.css.map */

@@ -2,6 +2,7 @@
 
 
 # Each-Loop Challenge:
+(each_loop_challenge)
 
     1. Create a page with 7 block-level elements, one for each day of the week. 
 

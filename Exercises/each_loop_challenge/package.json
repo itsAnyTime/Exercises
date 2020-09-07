@@ -1,0 +1,12 @@
+{
+  "name": "each_loop_challenge",
+  "version": "1.0.0",
+  "description": "1. Create a page with 7 block-level elements, one for each day of the week.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "itsAnyTime",
+  "license": "ISC"
+}
