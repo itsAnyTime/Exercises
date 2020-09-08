@@ -1,0 +1,84 @@
+body {
+  background-color: palegreen;
+  display: flex;
+  justify-content: center;
+}
+
+.color-sample div {
+  width: 400px;
+  padding: 20px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+/* task 2 */
+// div:nth-child(15) {
+//     background-color: red;
+// }
+
+/* task 4 */
+@for $var from 1 to 21 {
+  .color#{$var} {
+    background-color: pink;
+  }
+}
+
+/* task 3 */
+/* (needs to be under task 4, otherwise it needs an !important after red) */
+@for $var from 15 to 16 {
+  .color#{$var} {
+    background-color: red;
+  }
+}
+
+/* bonus */
+/* task 3 */
+/* @for $var from 1 to 21 {
+  .color#{$var} {
+    @if ($var%3 == 0 and $var%5 == 0) {
+      background-color: rgb(151, 0, 0);
+    } @else if($var%3 == 0 and $var%5 != 0) {
+      background-color: blue;
+    } @else if($var%5 == 0 and $var%3 != 0) {
+      background-color: green;
+    } @else if($var%3 != 0 and $var%5 != 0) {
+      background-color: rgb(226, 113, 132);
+    }
+  }
+} */
+
+
+
+
+
+
+
+
+
+// finding solution task 3:
+// @for $var from 1 to 21 {
+//     .color#{$var} {
+//         @if($var%3 == 0 and $var%5 != 0) {
+//         background-color: blue; }
+//         //  @else if() {
+//         //  background-color: blue;}
+//     }
+// }
+
+// @for $var from 1 to 21 {
+//     .color#{$var} {
+//         @if($var%5 == 0 and $var%3 != 0) {
+//         background-color: green; }
+//         //  @else if() {
+//         //  background-color: blue;}
+//     }
+// }
+
+// @for $var from 1 to 21 {
+//     .color#{$var} {
+//         @if($var%3 != 0 and $var%5 != 0) {
+//         background-color: rgb(226, 113, 132); }
+//         //  @else if() {
+//         //  background-color: blue;}
+//     }
+// }

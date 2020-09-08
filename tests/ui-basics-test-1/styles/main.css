@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+li:nth-child(2) {
+    color: blue;
+}
+
+.image {
+     display: inline-block;
+}
+
+.round img {
+    border-radius: 5%;
+}
+
+.headline_3 {
+    color: rgb(255, 165, 0);
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+/* a:link { color: #; } not in task */
+a:visited { color: green; }
+a:hover { color: red; }
+/* a:active { color: #; } not in task */
+
+.box-model {
+    padding: 5px;
+    /* the task for margin is not very clear */
+    margin: 10%; 
+}
+
+li {
+    text-decoration: line-through;
+}
