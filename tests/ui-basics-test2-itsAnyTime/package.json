@@ -1,0 +1,20 @@
+{
+  "name": "ui-basics-test2-itsAnyTime",
+  "version": "1.0.0",
+  "description": "## Test Instructions * In the test folder in this repository, there are both html and css files as well as an images folder. These files contain the foundations of a computer store landing page!  * The task is to follow the instructions below to complete the landing page. * Good luck!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HH-FBW8/ui-basics-test2-itsAnyTime.git"
+  },
+  "keywords": [],
+  "author": "itsAnyTime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HH-FBW8/ui-basics-test2-itsAnyTime/issues"
+  },
+  "homepage": "https://github.com/HH-FBW8/ui-basics-test2-itsAnyTime#readme"
+}
