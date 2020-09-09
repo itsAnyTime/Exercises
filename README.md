@@ -1,5 +1,10 @@
 # Exercises - just for practise
 
+## Test
+(tests/ui-basics-test2)
+
+9.9.2020
+
 ## Pre-test
 (tests/ui-basics-test-1)
 
