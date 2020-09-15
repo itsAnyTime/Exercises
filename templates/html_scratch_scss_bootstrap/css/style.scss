@@ -8,10 +8,15 @@ $body-bg: $myColor; // overwrites the variable body-bg with your color.
 use DevTools to find the source.
 
 @import "./_bootstrapfile.scss"; // path to scss file. Resources begin with underscores! and it should be always on bottom. own styles comes above
-or @import "../../node_modules/bootstrap/scss/bootstrap";
+or 
+@import "../../node_modules/bootstrap/scss/bootstrap";
+check path structure, maybe it is  
+@import "../node_modules/bootstrap/scss/bootstrap";
 
 
-/*
+// start example with own variables:
+$myColor: rgba(0, 204, 255, 1);
+$body-bg: $myColor;
 
 * {
     padding: 0; 
@@ -20,10 +25,11 @@ or @import "../../node_modules/bootstrap/scss/bootstrap";
 }
 
 body {
-
+    background-color: $myColor;
+    color: red;
 }
+////////////////////////////////////////
 
-*/
 
 
 /* Syntax 
@@ -70,4 +76,3 @@ body {
   
   background-color: $translucent-white;
  */
-
