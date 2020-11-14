@@ -8,7 +8,7 @@
 ## Pre-test
 (tests/ui-basics-test-1)
 
-Made a pretest with github classroom
+Pretest with github classroom
 
 8.9.2020
 
