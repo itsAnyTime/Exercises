@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+      background-color:  darkslategray;
+      text-align: center;
+  }
+  
+  #header-img {
+    max-width: 95%;
+}
+
+#nav-bar {
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+@media only screen and (max-width: 1075px) {
+    .pd {
+        position: relative;
+        left: 0;
+        width: 30%;
+        margin: 0 auto;
+    }
