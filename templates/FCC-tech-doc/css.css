@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    text-align: center;
+  }
+
+#navbar {
+    display: flex;
+    justify-content:space-evenly;
+    position: fixed;
+    top: 0;
+    background-color: green;
+    width: 45%;
+}
+
+#start_section {
+    margin-top: 2em;
+}
+
+#introduction {
+    margin-top: 2em;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+background-color: darkviolet;
+margin: 0 auto;
+width: 80%
+;    }
+  }
