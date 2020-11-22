@@ -1,64 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=">
-        <title>Any's Survey</title>
-      </head>
-      <body>
-        
-        <div id="title"><h1>New Flatmate Survey</h1>
-          <p id="description">You wanna join our great WG?</p>
-          <div>Let´s see what we can do :)</div>
-<p></p>
-          <form action="#" method="get" id="survey-form">
-            <fieldset>
-              <legend>Please fill in your answers</legend>
-              <p>
-              <select name="gender" id="dropdown">
-                <option value="male">male</option>
-                <option value="female">female</option>
-                <option value="other">other</option>
-            </select>
-        </p>
 
-      <label for="firstname" id="name-label">Name:</label><br>
-                      <input type="text" name="firstname" id="name" placeholder="What is your name?"><br>
-      
-                      <br>
-                <label for="email" id="email-label">Email:</label><br>
-                      <input type="email" name="email" id="email" placeholder="Your email adress"><br><br>
-              
-               <label for="phone" id="number-label">Phone</label><br>
-                      <input type="number" name="phone" id="number"  min="9" max="12" placeholder="telephone number"><br><br>
-                           
-                      <label for="smoker">Do you smoke?</label><br><br>
-                      <input type="radio" name="smoker" id="smoke_yes"><label for="smoke_yes">Yes</label>
-                      <input type="radio" name="smoker" id="smoke_no"><label for="smoke_no">No</label>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=">
+  <link rel="stylesheet" href="css.css">
+  <title>Any's Survey</title>
+</head>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
-                      <br><br>
-                      If yes:<br>
-                      <input type="checkbox" name="smokeBehavior" id="template1"><label for="template1">Yes, but only on balcony</label><br>
-                      <input type="checkbox" name="smokeBehavior" id="template2"><label for="template2">Rarely</label><br>
-                      <input type="checkbox" name="smokeBehavior" id="template3"><label for="template3">Sometimes</label><br>
-                      <input type="checkbox" name="smokeBehavior" id="template4"><label for="template4">A lot</label>
-                      <p></p>
+<body>
 
-                      <textarea name="msg" id="msg" cols="auto" rows="3"
-                      placeholder="Tell us more about your expectations."></textarea><br>
-                      
-                <input type="button" class="submit" value="Go with the flow">
-            </fieldset>
-          </form>
-      
-      <!--
-      
-      User Story #6: If I enter an email that is not formatted correctly, I will see an HTML5 validation error.
-      
-      User Story #8: If I enter non-numbers in the number input, I will see an HTML5 validation error.
-      
-      User Story #9: If I enter numbers outside the range of the number input, which are defined by the min and max attributes, I will see an HTML5 validation error.
- 
-      -->
-      </body>
-      </html>
+  <h1 id="title">New Flatmate Survey</h1>
+  <p id="description">You wanna join our great WG?</p>
+  <div>Let´s see what we can do :)</div>
+  <p></p>
+  <form action="#" method="get" id="survey-form">
+    <fieldset>
+      <legend>Please fill in your answers:</legend><br>
+      <p>I am:
+        <select name="gender" id="dropdown">
+          <option value="male">male</option>
+          <option value="female">female</option>
+          <option value="other">other</option>
+        </select>
+      </p><br>
+
+      <label for="name" id="name-label">Name:</label>
+      <input type="text" name="name" id="name" placeholder="Your name?" required><br>
+
+      <br>
+      <label for="email" id="email-label">Email:</label>
+      <input type="email" name="email" id="email" placeholder="Your email?" required><br><br>
+
+      <label for="phone" id="number-label">Phone</label>
+      <input type="number" name="phone" id="number" min="9" max="12" placeholder="telephone number"><br><br>
+
+      <label for="smoker"><h3>Do you smoke?</h3></label>
+      <div id="radios">
+      <input type="radio" name="smoker" id="smoke_yes" value="yes"><label for="smoke_yes">Yes</label>
+      <input type="radio" name="smoker" id="smoke_no" value="no"><label for="smoke_no">No</label>
+      </div>
+
+      <br><br>
+      <h3>If yes:</h3>
+      <div id="check">
+      <input type="checkbox" name="smokeBehavior" id="template1" value="check-1"><label for="template1">Yes, but only on balcony</label><br>
+      <input type="checkbox" name="smokeBehavior" id="template2" value="check-2"><label for="template2">Rarely</label><br>
+      <input type="checkbox" name="smokeBehavior" id="template3" value="check-3"><label for="template3">Sometimes</label><br>
+      <input type="checkbox" name="smokeBehavior" id="template4" value="check-4"><label for="template4">A lot</label>
+        </div>
+      <p></p><br>
+
+      <textarea name="msg" id="msg" cols="auto" rows="4" placeholder="Tell us more about your expectations."></textarea><br>
+
+      <input type="submit" id="submit" class="submit" value="Go with the flow">
+    </fieldset>
+  </form>
+
+  <footer id="footer">&copy; 2020 <a href="https://www.itsanytime.de" target="_blank">itsAnyTime</a></footer>
+
+</body>
+
+</html>

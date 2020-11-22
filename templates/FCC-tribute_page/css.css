@@ -13,21 +13,21 @@
      margin: 1.2em; 
   }
   
-  main img {
+ #image {
+      display: block;
       max-width: 95%;
       border:  3px solid black;
       border-radius:  30px;
-  }
+      margin: 0 auto;
+}
   
   #title {
   }
   
   #img-div {
-  
   }
   
   #image {
-  
   }
   
   #img-caption {

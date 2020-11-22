@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-family: Calibri, Verdana;
+  font-size: 22px;
+  color: white;
+  background-color: #403c3c;
+}
+
+h1 {
+  margin: 1.5em;
+}
+
+fieldset legend {
+  margin-left: 6%; 
+}
+
+#check {
+  text-align: left;
+  margin-left: 20%;
+}
+
+#check label {
+  margin: 0.3em;
+}
+
+#radios label{
+  margin: 0.2em;
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 2px;
+  
+}
+
+#dropdown {
+  padding: 3px;
+}
+
+input {
+  padding: 5px;
+}
+
+#msg {
+  padding: 5px;
+}
+
+#submit {
+  margin: 1.5em; 
+  padding: 0.5em;
+}
+
+#footer a:link {
+  text-decoration: none;
+  font-size: 17px;
+}
+/* link style end */
+
+#footer {
+  margin-top: 3em;
+  margin-bottom: 2em;
+  font-size: 0.7em;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    text-shadow: -1px -1px 1px rgba(3, 0, 0, 0.397);
+    position: relative;
+    color: lightblue;
+}
+
+a:link {
+    color: white;
+}
+
+a:active {
+    text-shadow: rgb(197, 197, 248);
+    position: relative;
+}
