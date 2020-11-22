@@ -17,7 +17,7 @@ h1 {
 }
 
 fieldset legend {
-  margin-left: 6%; 
+  margin-left: 6%;
 }
 
 #check {
@@ -29,7 +29,7 @@ fieldset legend {
   margin: 0.3em;
 }
 
-#radios label{
+#radios label {
   margin: 0.2em;
 }
 
@@ -38,7 +38,6 @@ form {
   margin: 0 auto;
   margin-top: 30px;
   padding: 2px;
-  
 }
 
 #dropdown {
@@ -54,7 +53,7 @@ input {
 }
 
 #submit {
-  margin: 1.5em; 
+  margin: 1.5em;
   padding: 0.5em;
 }
 
@@ -71,20 +70,20 @@ input {
 }
 
 a:visited {
-    color: white;
+  color: white;
 }
 
 a:hover {
-    text-shadow: -1px -1px 1px rgba(3, 0, 0, 0.397);
-    position: relative;
-    color: lightblue;
+  text-shadow: -1px -1px 1px rgba(3, 0, 0, 0.397);
+  position: relative;
+  color: lightblue;
 }
 
 a:link {
-    color: white;
+  color: white;
 }
 
 a:active {
-    text-shadow: rgb(197, 197, 248);
-    position: relative;
+  text-shadow: rgb(197, 197, 248);
+  position: relative;
 }
