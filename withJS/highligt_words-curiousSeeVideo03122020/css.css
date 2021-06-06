@@ -1,0 +1,7 @@
+.container, .demo {
+    background-color: skyblue;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    border: 1px dashed black
+  }
