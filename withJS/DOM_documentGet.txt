@@ -1,0 +1,58 @@
+# DOM manipulation
+
+1.
+	· background color of h1 element & 
+	· font size of h1 element 
+
+	const test = document.querySelector("h1");
+	test.style.backgroundColor: "#red";    // backgroundColor, not background-color
+	test.style.fontSize: "20px";           // fontSize, not font-size 
+
+	or in one line:
+
+	const test = document.querySelector("hi").style.backgroundColor = "green";
+
+	like	
+		h1 {
+			background-color: #red;
+			font-size: 17px;
+		}
+	
+2:
+	· elements by class name “demo” &
+	· font size and border 
+
+	const demo = document.querySelectorAll(".demo");
+	console.log(demo);
+
+	demo.forEach(element => {
+		element.style.color = "red";
+		element.style.fontStyle = "italic";
+		element.style.fontSize = "19px";
+	})
+
+	const demo = document.getElementByClass("demo").style.fontSize = "16px";
+	const demo = document.getElementByClass("demo").style.border = "2px solid black";
+
+	like
+		#demo {
+			font-size: 15px;
+			border: 2px solid black;
+		}
+	
+ 3: (not tested)
+ 
+	· Function that sets font size and color of the font, 
+	· applied to the first “p” element 
+
+	function fontSize {
+		document.querySelector(p).style.font-size = "24px";
+		document.querySelector(p).style.color = "#red";
+	}
+
+	like
+		p {
+			font-size: 24px;
+			color: #red;
+		}
+
